@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SmarTub</string>
+    <string name="icono_fondo">Icono de fondo</string>
+    <string name="editText_cuenta">Ingresar email</string>
+    <string name="editText_password">Ingresar contraseña</string>
+    <string name="button_iniciarsesion">Iniciar sesión</string>
+    <string name="button_registrarse">Registrarse</string>
+    <string name="textview_OnR">Oceans and Rivers ®</string>
+    <string name="button_cerrarsesionn">Cerrar sesión</string>
+    <string name="consumo_historico">Consumo histórico:</string>
+    <string name="button_histograma">Histograma</string>
+
+</resources>

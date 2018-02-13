@@ -1,0 +1,4401 @@
+[ {
+  "Hora" : "1/12/2017 00:00",
+  "Smartub1" : "30",
+  "smartub2" : "13",
+  "smartub3" : "21",
+  "smartub4" : "7",
+  "smartube5" : "23",
+  "smartube6" : "30",
+  "smartube7" : "21",
+  "smartube8" : "27"
+}, {
+  "Hora" : "1/12/2017 03:00",
+  "Smartub1" : "18",
+  "smartub2" : "26",
+  "smartub3" : "21",
+  "smartub4" : "20",
+  "smartube5" : "23",
+  "smartube6" : "33",
+  "smartube7" : "18",
+  "smartube8" : "26"
+}, {
+  "Hora" : "1/12/2017 06:00",
+  "Smartub1" : "18",
+  "smartub2" : "18",
+  "smartub3" : "19",
+  "smartub4" : "30",
+  "smartube5" : "12",
+  "smartube6" : "12",
+  "smartube7" : "11",
+  "smartube8" : "9"
+}, {
+  "Hora" : "1/12/2017 09:00",
+  "Smartub1" : "17",
+  "smartub2" : "23",
+  "smartub3" : "10",
+  "smartub4" : "13",
+  "smartube5" : "14",
+  "smartube6" : "22",
+  "smartube7" : "8",
+  "smartube8" : "26"
+}, {
+  "Hora" : "1/12/2017 12:00",
+  "Smartub1" : "25",
+  "smartub2" : "30",
+  "smartub3" : "21",
+  "smartub4" : "25",
+  "smartube5" : "11",
+  "smartube6" : "8",
+  "smartube7" : "28",
+  "smartube8" : "7"
+}, {
+  "Hora" : "1/12/2017 15:00",
+  "Smartub1" : "20",
+  "smartub2" : "6",
+  "smartub3" : "20",
+  "smartub4" : "28",
+  "smartube5" : "12",
+  "smartube6" : "27",
+  "smartube7" : "9",
+  "smartube8" : "26"
+}, {
+  "Hora" : "1/12/2017 18:00",
+  "Smartub1" : "5",
+  "smartub2" : "12",
+  "smartub3" : "14",
+  "smartub4" : "21",
+  "smartube5" : "15",
+  "smartube6" : "21",
+  "smartube7" : "8",
+  "smartube8" : "25"
+}, {
+  "Hora" : "1/12/2017 21:00",
+  "Smartub1" : "31",
+  "smartub2" : "33",
+  "smartub3" : "18",
+  "smartub4" : "15",
+  "smartube5" : "13",
+  "smartube6" : "5",
+  "smartube7" : "18",
+  "smartube8" : "29"
+}, {
+  "Hora" : "2/12/2017 00:00",
+  "Smartub1" : "32",
+  "smartub2" : "21",
+  "smartub3" : "18",
+  "smartub4" : "6",
+  "smartube5" : "5",
+  "smartube6" : "18",
+  "smartube7" : "17",
+  "smartube8" : "24"
+}, {
+  "Hora" : "2/12/2017 03:00",
+  "Smartub1" : "31",
+  "smartub2" : "35",
+  "smartub3" : "25",
+  "smartub4" : "13",
+  "smartube5" : "26",
+  "smartube6" : "8",
+  "smartube7" : "18",
+  "smartube8" : "20"
+}, {
+  "Hora" : "2/12/2017 06:00",
+  "Smartub1" : "33",
+  "smartub2" : "9",
+  "smartub3" : "18",
+  "smartub4" : "30",
+  "smartube5" : "12",
+  "smartube6" : "24",
+  "smartube7" : "35",
+  "smartube8" : "20"
+}, {
+  "Hora" : "2/12/2017 09:00",
+  "Smartub1" : "18",
+  "smartub2" : "29",
+  "smartub3" : "19",
+  "smartub4" : "18",
+  "smartube5" : "20",
+  "smartube6" : "28",
+  "smartube7" : "29",
+  "smartube8" : "8"
+}, {
+  "Hora" : "2/12/2017 12:00",
+  "Smartub1" : "9",
+  "smartub2" : "11",
+  "smartub3" : "34",
+  "smartub4" : "14",
+  "smartube5" : "27",
+  "smartube6" : "25",
+  "smartube7" : "15",
+  "smartube8" : "6"
+}, {
+  "Hora" : "2/12/2017 15:00",
+  "Smartub1" : "23",
+  "smartub2" : "34",
+  "smartub3" : "26",
+  "smartub4" : "15",
+  "smartube5" : "15",
+  "smartube6" : "20",
+  "smartube7" : "6",
+  "smartube8" : "29"
+}, {
+  "Hora" : "2/12/2017 18:00",
+  "Smartub1" : "29",
+  "smartub2" : "13",
+  "smartub3" : "13",
+  "smartub4" : "7",
+  "smartube5" : "18",
+  "smartube6" : "18",
+  "smartube7" : "23",
+  "smartube8" : "23"
+}, {
+  "Hora" : "2/12/2017 21:00",
+  "Smartub1" : "10",
+  "smartub2" : "6",
+  "smartub3" : "33",
+  "smartub4" : "30",
+  "smartube5" : "28",
+  "smartube6" : "8",
+  "smartube7" : "23",
+  "smartube8" : "29"
+}, {
+  "Hora" : "3/12/2017 00:00",
+  "Smartub1" : "18",
+  "smartub2" : "28",
+  "smartub3" : "25",
+  "smartub4" : "23",
+  "smartube5" : "12",
+  "smartube6" : "7",
+  "smartube7" : "29",
+  "smartube8" : "9"
+}, {
+  "Hora" : "3/12/2017 03:00",
+  "Smartub1" : "16",
+  "smartub2" : "28",
+  "smartub3" : "25",
+  "smartub4" : "35",
+  "smartube5" : "28",
+  "smartube6" : "33",
+  "smartube7" : "10",
+  "smartube8" : "18"
+}, {
+  "Hora" : "3/12/2017 06:00",
+  "Smartub1" : "23",
+  "smartub2" : "18",
+  "smartub3" : "28",
+  "smartub4" : "6",
+  "smartube5" : "32",
+  "smartube6" : "9",
+  "smartube7" : "8",
+  "smartube8" : "30"
+}, {
+  "Hora" : "3/12/2017 09:00",
+  "Smartub1" : "30",
+  "smartub2" : "31",
+  "smartub3" : "28",
+  "smartub4" : "28",
+  "smartube5" : "16",
+  "smartube6" : "26",
+  "smartube7" : "14",
+  "smartube8" : "32"
+}, {
+  "Hora" : "3/12/2017 12:00",
+  "Smartub1" : "30",
+  "smartub2" : "35",
+  "smartub3" : "29",
+  "smartub4" : "23",
+  "smartube5" : "15",
+  "smartube6" : "23",
+  "smartube7" : "20",
+  "smartube8" : "31"
+}, {
+  "Hora" : "3/12/2017 15:00",
+  "Smartub1" : "26",
+  "smartub2" : "13",
+  "smartub3" : "31",
+  "smartub4" : "26",
+  "smartube5" : "31",
+  "smartube6" : "35",
+  "smartube7" : "32",
+  "smartube8" : "30"
+}, {
+  "Hora" : "3/12/2017 18:00",
+  "Smartub1" : "32",
+  "smartub2" : "32",
+  "smartub3" : "8",
+  "smartub4" : "17",
+  "smartube5" : "25",
+  "smartube6" : "26",
+  "smartube7" : "24",
+  "smartube8" : "8"
+}, {
+  "Hora" : "3/12/2017 21:00",
+  "Smartub1" : "7",
+  "smartub2" : "32",
+  "smartub3" : "5",
+  "smartub4" : "5",
+  "smartube5" : "11",
+  "smartube6" : "8",
+  "smartube7" : "11",
+  "smartube8" : "23"
+}, {
+  "Hora" : "4/12/2017 00:00",
+  "Smartub1" : "30",
+  "smartub2" : "9",
+  "smartub3" : "6",
+  "smartub4" : "29",
+  "smartube5" : "8",
+  "smartube6" : "14",
+  "smartube7" : "20",
+  "smartube8" : "33"
+}, {
+  "Hora" : "4/12/2017 03:00",
+  "Smartub1" : "8",
+  "smartub2" : "5",
+  "smartub3" : "14",
+  "smartub4" : "14",
+  "smartube5" : "12",
+  "smartube6" : "16",
+  "smartube7" : "19",
+  "smartube8" : "13"
+}, {
+  "Hora" : "4/12/2017 06:00",
+  "Smartub1" : "28",
+  "smartub2" : "23",
+  "smartub3" : "7",
+  "smartub4" : "23",
+  "smartube5" : "21",
+  "smartube6" : "8",
+  "smartube7" : "10",
+  "smartube8" : "18"
+}, {
+  "Hora" : "4/12/2017 09:00",
+  "Smartub1" : "22",
+  "smartub2" : "33",
+  "smartub3" : "16",
+  "smartub4" : "30",
+  "smartube5" : "34",
+  "smartube6" : "10",
+  "smartube7" : "17",
+  "smartube8" : "10"
+}, {
+  "Hora" : "4/12/2017 12:00",
+  "Smartub1" : "9",
+  "smartub2" : "12",
+  "smartub3" : "13",
+  "smartub4" : "24",
+  "smartube5" : "22",
+  "smartube6" : "10",
+  "smartube7" : "7",
+  "smartube8" : "9"
+}, {
+  "Hora" : "4/12/2017 15:00",
+  "Smartub1" : "22",
+  "smartub2" : "12",
+  "smartub3" : "26",
+  "smartub4" : "5",
+  "smartube5" : "27",
+  "smartube6" : "7",
+  "smartube7" : "21",
+  "smartube8" : "26"
+}, {
+  "Hora" : "4/12/2017 18:00",
+  "Smartub1" : "7",
+  "smartub2" : "5",
+  "smartub3" : "12",
+  "smartub4" : "12",
+  "smartube5" : "20",
+  "smartube6" : "12",
+  "smartube7" : "23",
+  "smartube8" : "27"
+}, {
+  "Hora" : "4/12/2017 21:00",
+  "Smartub1" : "22",
+  "smartub2" : "29",
+  "smartub3" : "25",
+  "smartub4" : "26",
+  "smartube5" : "32",
+  "smartube6" : "20",
+  "smartube7" : "32",
+  "smartube8" : "35"
+}, {
+  "Hora" : "5/12/2017 00:00",
+  "Smartub1" : "33",
+  "smartub2" : "23",
+  "smartub3" : "9",
+  "smartub4" : "13",
+  "smartube5" : "10",
+  "smartube6" : "24",
+  "smartube7" : "26",
+  "smartube8" : "8"
+}, {
+  "Hora" : "5/12/2017 03:00",
+  "Smartub1" : "23",
+  "smartub2" : "20",
+  "smartub3" : "11",
+  "smartub4" : "23",
+  "smartube5" : "19",
+  "smartube6" : "12",
+  "smartube7" : "32",
+  "smartube8" : "21"
+}, {
+  "Hora" : "5/12/2017 06:00",
+  "Smartub1" : "27",
+  "smartub2" : "15",
+  "smartub3" : "5",
+  "smartub4" : "33",
+  "smartube5" : "21",
+  "smartube6" : "12",
+  "smartube7" : "28",
+  "smartube8" : "33"
+}, {
+  "Hora" : "5/12/2017 09:00",
+  "Smartub1" : "20",
+  "smartub2" : "16",
+  "smartub3" : "32",
+  "smartub4" : "23",
+  "smartube5" : "15",
+  "smartube6" : "18",
+  "smartube7" : "33",
+  "smartube8" : "22"
+}, {
+  "Hora" : "5/12/2017 12:00",
+  "Smartub1" : "10",
+  "smartub2" : "15",
+  "smartub3" : "8",
+  "smartub4" : "34",
+  "smartube5" : "32",
+  "smartube6" : "18",
+  "smartube7" : "32",
+  "smartube8" : "16"
+}, {
+  "Hora" : "5/12/2017 15:00",
+  "Smartub1" : "15",
+  "smartub2" : "28",
+  "smartub3" : "24",
+  "smartub4" : "35",
+  "smartube5" : "13",
+  "smartube6" : "10",
+  "smartube7" : "6",
+  "smartube8" : "9"
+}, {
+  "Hora" : "5/12/2017 18:00",
+  "Smartub1" : "31",
+  "smartub2" : "10",
+  "smartub3" : "34",
+  "smartub4" : "10",
+  "smartube5" : "35",
+  "smartube6" : "31",
+  "smartube7" : "11",
+  "smartube8" : "25"
+}, {
+  "Hora" : "5/12/2017 21:00",
+  "Smartub1" : "5",
+  "smartub2" : "22",
+  "smartub3" : "14",
+  "smartub4" : "11",
+  "smartube5" : "5",
+  "smartube6" : "26",
+  "smartube7" : "10",
+  "smartube8" : "32"
+}, {
+  "Hora" : "6/12/2017 00:00",
+  "Smartub1" : "32",
+  "smartub2" : "18",
+  "smartub3" : "29",
+  "smartub4" : "13",
+  "smartube5" : "14",
+  "smartube6" : "28",
+  "smartube7" : "23",
+  "smartube8" : "21"
+}, {
+  "Hora" : "6/12/2017 03:00",
+  "Smartub1" : "15",
+  "smartub2" : "18",
+  "smartub3" : "6",
+  "smartub4" : "6",
+  "smartube5" : "25",
+  "smartube6" : "26",
+  "smartube7" : "18",
+  "smartube8" : "5"
+}, {
+  "Hora" : "6/12/2017 06:00",
+  "Smartub1" : "25",
+  "smartub2" : "8",
+  "smartub3" : "13",
+  "smartub4" : "20",
+  "smartube5" : "25",
+  "smartube6" : "23",
+  "smartube7" : "18",
+  "smartube8" : "27"
+}, {
+  "Hora" : "6/12/2017 09:00",
+  "Smartub1" : "5",
+  "smartub2" : "32",
+  "smartub3" : "32",
+  "smartub4" : "30",
+  "smartube5" : "14",
+  "smartube6" : "25",
+  "smartube7" : "10",
+  "smartube8" : "5"
+}, {
+  "Hora" : "6/12/2017 12:00",
+  "Smartub1" : "10",
+  "smartub2" : "33",
+  "smartub3" : "15",
+  "smartub4" : "12",
+  "smartube5" : "22",
+  "smartube6" : "33",
+  "smartube7" : "21",
+  "smartube8" : "30"
+}, {
+  "Hora" : "6/12/2017 15:00",
+  "Smartub1" : "28",
+  "smartub2" : "9",
+  "smartub3" : "26",
+  "smartub4" : "11",
+  "smartube5" : "27",
+  "smartube6" : "25",
+  "smartube7" : "11",
+  "smartube8" : "19"
+}, {
+  "Hora" : "6/12/2017 18:00",
+  "Smartub1" : "9",
+  "smartub2" : "17",
+  "smartub3" : "27",
+  "smartub4" : "35",
+  "smartube5" : "11",
+  "smartube6" : "7",
+  "smartube7" : "14",
+  "smartube8" : "7"
+}, {
+  "Hora" : "6/12/2017 21:00",
+  "Smartub1" : "22",
+  "smartub2" : "23",
+  "smartub3" : "12",
+  "smartub4" : "23",
+  "smartube5" : "5",
+  "smartube6" : "29",
+  "smartube7" : "35",
+  "smartube8" : "32"
+}, {
+  "Hora" : "7/12/2017 00:00",
+  "Smartub1" : "32",
+  "smartub2" : "14",
+  "smartub3" : "17",
+  "smartub4" : "17",
+  "smartube5" : "9",
+  "smartube6" : "8",
+  "smartube7" : "9",
+  "smartube8" : "11"
+}, {
+  "Hora" : "7/12/2017 03:00",
+  "Smartub1" : "35",
+  "smartub2" : "27",
+  "smartub3" : "22",
+  "smartub4" : "27",
+  "smartube5" : "16",
+  "smartube6" : "20",
+  "smartube7" : "16",
+  "smartube8" : "29"
+}, {
+  "Hora" : "7/12/2017 06:00",
+  "Smartub1" : "25",
+  "smartub2" : "24",
+  "smartub3" : "18",
+  "smartub4" : "15",
+  "smartube5" : "28",
+  "smartube6" : "8",
+  "smartube7" : "35",
+  "smartube8" : "11"
+}, {
+  "Hora" : "7/12/2017 09:00",
+  "Smartub1" : "12",
+  "smartub2" : "23",
+  "smartub3" : "23",
+  "smartub4" : "14",
+  "smartube5" : "27",
+  "smartube6" : "18",
+  "smartube7" : "32",
+  "smartube8" : "25"
+}, {
+  "Hora" : "7/12/2017 12:00",
+  "Smartub1" : "19",
+  "smartub2" : "7",
+  "smartub3" : "16",
+  "smartub4" : "12",
+  "smartube5" : "11",
+  "smartube6" : "24",
+  "smartube7" : "24",
+  "smartube8" : "19"
+}, {
+  "Hora" : "7/12/2017 15:00",
+  "Smartub1" : "9",
+  "smartub2" : "21",
+  "smartub3" : "30",
+  "smartub4" : "28",
+  "smartube5" : "13",
+  "smartube6" : "35",
+  "smartube7" : "31",
+  "smartube8" : "19"
+}, {
+  "Hora" : "7/12/2017 18:00",
+  "Smartub1" : "13",
+  "smartub2" : "21",
+  "smartub3" : "34",
+  "smartub4" : "28",
+  "smartube5" : "16",
+  "smartube6" : "20",
+  "smartube7" : "14",
+  "smartube8" : "30"
+}, {
+  "Hora" : "7/12/2017 21:00",
+  "Smartub1" : "15",
+  "smartub2" : "11",
+  "smartub3" : "17",
+  "smartub4" : "25",
+  "smartube5" : "31",
+  "smartube6" : "28",
+  "smartube7" : "17",
+  "smartube8" : "28"
+}, {
+  "Hora" : "8/12/2017 00:00",
+  "Smartub1" : "21",
+  "smartub2" : "26",
+  "smartub3" : "30",
+  "smartub4" : "17",
+  "smartube5" : "32",
+  "smartube6" : "15",
+  "smartube7" : "17",
+  "smartube8" : "20"
+}, {
+  "Hora" : "8/12/2017 03:00",
+  "Smartub1" : "15",
+  "smartub2" : "21",
+  "smartub3" : "23",
+  "smartub4" : "21",
+  "smartube5" : "8",
+  "smartube6" : "12",
+  "smartube7" : "6",
+  "smartube8" : "28"
+}, {
+  "Hora" : "8/12/2017 06:00",
+  "Smartub1" : "18",
+  "smartub2" : "35",
+  "smartub3" : "31",
+  "smartub4" : "16",
+  "smartube5" : "11",
+  "smartube6" : "20",
+  "smartube7" : "33",
+  "smartube8" : "24"
+}, {
+  "Hora" : "8/12/2017 09:00",
+  "Smartub1" : "35",
+  "smartub2" : "13",
+  "smartub3" : "26",
+  "smartub4" : "9",
+  "smartube5" : "23",
+  "smartube6" : "9",
+  "smartube7" : "6",
+  "smartube8" : "31"
+}, {
+  "Hora" : "8/12/2017 12:00",
+  "Smartub1" : "29",
+  "smartub2" : "31",
+  "smartub3" : "22",
+  "smartub4" : "30",
+  "smartube5" : "32",
+  "smartube6" : "35",
+  "smartube7" : "5",
+  "smartube8" : "26"
+}, {
+  "Hora" : "8/12/2017 15:00",
+  "Smartub1" : "25",
+  "smartub2" : "33",
+  "smartub3" : "21",
+  "smartub4" : "28",
+  "smartube5" : "29",
+  "smartube6" : "20",
+  "smartube7" : "30",
+  "smartube8" : "35"
+}, {
+  "Hora" : "8/12/2017 18:00",
+  "Smartub1" : "15",
+  "smartub2" : "19",
+  "smartub3" : "14",
+  "smartub4" : "24",
+  "smartube5" : "30",
+  "smartube6" : "23",
+  "smartube7" : "27",
+  "smartube8" : "21"
+}, {
+  "Hora" : "8/12/2017 21:00",
+  "Smartub1" : "17",
+  "smartub2" : "17",
+  "smartub3" : "31",
+  "smartub4" : "33",
+  "smartube5" : "5",
+  "smartube6" : "31",
+  "smartube7" : "15",
+  "smartube8" : "23"
+}, {
+  "Hora" : "9/12/2017 00:00",
+  "Smartub1" : "29",
+  "smartub2" : "26",
+  "smartub3" : "30",
+  "smartub4" : "19",
+  "smartube5" : "5",
+  "smartube6" : "12",
+  "smartube7" : "31",
+  "smartube8" : "27"
+}, {
+  "Hora" : "9/12/2017 03:00",
+  "Smartub1" : "29",
+  "smartub2" : "17",
+  "smartub3" : "10",
+  "smartub4" : "24",
+  "smartube5" : "12",
+  "smartube6" : "23",
+  "smartube7" : "21",
+  "smartube8" : "10"
+}, {
+  "Hora" : "9/12/2017 06:00",
+  "Smartub1" : "27",
+  "smartub2" : "9",
+  "smartub3" : "35",
+  "smartub4" : "32",
+  "smartube5" : "33",
+  "smartube6" : "5",
+  "smartube7" : "24",
+  "smartube8" : "22"
+}, {
+  "Hora" : "9/12/2017 09:00",
+  "Smartub1" : "26",
+  "smartub2" : "14",
+  "smartub3" : "8",
+  "smartub4" : "5",
+  "smartube5" : "25",
+  "smartube6" : "11",
+  "smartube7" : "21",
+  "smartube8" : "27"
+}, {
+  "Hora" : "9/12/2017 12:00",
+  "Smartub1" : "15",
+  "smartub2" : "10",
+  "smartub3" : "10",
+  "smartub4" : "21",
+  "smartube5" : "9",
+  "smartube6" : "17",
+  "smartube7" : "7",
+  "smartube8" : "7"
+}, {
+  "Hora" : "9/12/2017 15:00",
+  "Smartub1" : "31",
+  "smartub2" : "21",
+  "smartub3" : "32",
+  "smartub4" : "9",
+  "smartube5" : "14",
+  "smartube6" : "13",
+  "smartube7" : "32",
+  "smartube8" : "11"
+}, {
+  "Hora" : "9/12/2017 18:00",
+  "Smartub1" : "25",
+  "smartub2" : "28",
+  "smartub3" : "32",
+  "smartub4" : "14",
+  "smartube5" : "19",
+  "smartube6" : "6",
+  "smartube7" : "5",
+  "smartube8" : "19"
+}, {
+  "Hora" : "9/12/2017 21:00",
+  "Smartub1" : "27",
+  "smartub2" : "19",
+  "smartub3" : "35",
+  "smartub4" : "5",
+  "smartube5" : "24",
+  "smartube6" : "19",
+  "smartube7" : "31",
+  "smartube8" : "7"
+}, {
+  "Hora" : "10/12/2017 00:00",
+  "Smartub1" : "29",
+  "smartub2" : "20",
+  "smartub3" : "29",
+  "smartub4" : "8",
+  "smartube5" : "24",
+  "smartube6" : "14",
+  "smartube7" : "5",
+  "smartube8" : "5"
+}, {
+  "Hora" : "10/12/2017 03:00",
+  "Smartub1" : "35",
+  "smartub2" : "5",
+  "smartub3" : "32",
+  "smartub4" : "11",
+  "smartube5" : "25",
+  "smartube6" : "21",
+  "smartube7" : "20",
+  "smartube8" : "33"
+}, {
+  "Hora" : "10/12/2017 06:00",
+  "Smartub1" : "17",
+  "smartub2" : "27",
+  "smartub3" : "26",
+  "smartub4" : "31",
+  "smartube5" : "31",
+  "smartube6" : "23",
+  "smartube7" : "34",
+  "smartube8" : "19"
+}, {
+  "Hora" : "10/12/2017 09:00",
+  "Smartub1" : "16",
+  "smartub2" : "25",
+  "smartub3" : "25",
+  "smartub4" : "35",
+  "smartube5" : "29",
+  "smartube6" : "20",
+  "smartube7" : "21",
+  "smartube8" : "28"
+}, {
+  "Hora" : "10/12/2017 12:00",
+  "Smartub1" : "35",
+  "smartub2" : "28",
+  "smartub3" : "31",
+  "smartub4" : "6",
+  "smartube5" : "22",
+  "smartube6" : "30",
+  "smartube7" : "21",
+  "smartube8" : "12"
+}, {
+  "Hora" : "10/12/2017 15:00",
+  "Smartub1" : "13",
+  "smartub2" : "30",
+  "smartub3" : "13",
+  "smartub4" : "24",
+  "smartube5" : "30",
+  "smartube6" : "23",
+  "smartube7" : "30",
+  "smartube8" : "5"
+}, {
+  "Hora" : "10/12/2017 18:00",
+  "Smartub1" : "22",
+  "smartub2" : "32",
+  "smartub3" : "7",
+  "smartub4" : "35",
+  "smartube5" : "26",
+  "smartube6" : "20",
+  "smartube7" : "35",
+  "smartube8" : "10"
+}, {
+  "Hora" : "10/12/2017 21:00",
+  "Smartub1" : "5",
+  "smartub2" : "29",
+  "smartub3" : "31",
+  "smartub4" : "13",
+  "smartube5" : "10",
+  "smartube6" : "21",
+  "smartube7" : "24",
+  "smartube8" : "7"
+}, {
+  "Hora" : "11/12/2017 00:00",
+  "Smartub1" : "24",
+  "smartub2" : "13",
+  "smartub3" : "23",
+  "smartub4" : "25",
+  "smartube5" : "31",
+  "smartube6" : "5",
+  "smartube7" : "10",
+  "smartube8" : "5"
+}, {
+  "Hora" : "11/12/2017 03:00",
+  "Smartub1" : "14",
+  "smartub2" : "32",
+  "smartub3" : "21",
+  "smartub4" : "16",
+  "smartube5" : "22",
+  "smartube6" : "28",
+  "smartube7" : "23",
+  "smartube8" : "18"
+}, {
+  "Hora" : "11/12/2017 06:00",
+  "Smartub1" : "15",
+  "smartub2" : "12",
+  "smartub3" : "16",
+  "smartub4" : "31",
+  "smartube5" : "13",
+  "smartube6" : "14",
+  "smartube7" : "13",
+  "smartube8" : "29"
+}, {
+  "Hora" : "11/12/2017 09:00",
+  "Smartub1" : "6",
+  "smartub2" : "9",
+  "smartub3" : "17",
+  "smartub4" : "11",
+  "smartube5" : "5",
+  "smartube6" : "13",
+  "smartube7" : "18",
+  "smartube8" : "27"
+}, {
+  "Hora" : "11/12/2017 12:00",
+  "Smartub1" : "5",
+  "smartub2" : "7",
+  "smartub3" : "18",
+  "smartub4" : "17",
+  "smartube5" : "25",
+  "smartube6" : "15",
+  "smartube7" : "16",
+  "smartube8" : "14"
+}, {
+  "Hora" : "11/12/2017 15:00",
+  "Smartub1" : "12",
+  "smartub2" : "21",
+  "smartub3" : "29",
+  "smartub4" : "15",
+  "smartube5" : "20",
+  "smartube6" : "5",
+  "smartube7" : "26",
+  "smartube8" : "29"
+}, {
+  "Hora" : "11/12/2017 18:00",
+  "Smartub1" : "30",
+  "smartub2" : "8",
+  "smartub3" : "22",
+  "smartub4" : "11",
+  "smartube5" : "10",
+  "smartube6" : "33",
+  "smartube7" : "27",
+  "smartube8" : "29"
+}, {
+  "Hora" : "11/12/2017 21:00",
+  "Smartub1" : "6",
+  "smartub2" : "27",
+  "smartub3" : "5",
+  "smartub4" : "18",
+  "smartube5" : "24",
+  "smartube6" : "27",
+  "smartube7" : "16",
+  "smartube8" : "29"
+}, {
+  "Hora" : "12/12/2017 00:00",
+  "Smartub1" : "28",
+  "smartub2" : "26",
+  "smartub3" : "24",
+  "smartub4" : "22",
+  "smartube5" : "16",
+  "smartube6" : "13",
+  "smartube7" : "32",
+  "smartube8" : "32"
+}, {
+  "Hora" : "12/12/2017 03:00",
+  "Smartub1" : "35",
+  "smartub2" : "35",
+  "smartub3" : "28",
+  "smartub4" : "9",
+  "smartube5" : "29",
+  "smartube6" : "7",
+  "smartube7" : "16",
+  "smartube8" : "23"
+}, {
+  "Hora" : "12/12/2017 06:00",
+  "Smartub1" : "35",
+  "smartub2" : "14",
+  "smartub3" : "26",
+  "smartub4" : "8",
+  "smartube5" : "15",
+  "smartube6" : "28",
+  "smartube7" : "7",
+  "smartube8" : "26"
+}, {
+  "Hora" : "12/12/2017 09:00",
+  "Smartub1" : "28",
+  "smartub2" : "31",
+  "smartub3" : "12",
+  "smartub4" : "14",
+  "smartube5" : "31",
+  "smartube6" : "34",
+  "smartube7" : "32",
+  "smartube8" : "33"
+}, {
+  "Hora" : "12/12/2017 12:00",
+  "Smartub1" : "9",
+  "smartub2" : "10",
+  "smartub3" : "23",
+  "smartub4" : "35",
+  "smartube5" : "16",
+  "smartube6" : "31",
+  "smartube7" : "24",
+  "smartube8" : "34"
+}, {
+  "Hora" : "12/12/2017 15:00",
+  "Smartub1" : "20",
+  "smartub2" : "20",
+  "smartub3" : "35",
+  "smartub4" : "19",
+  "smartube5" : "22",
+  "smartube6" : "16",
+  "smartube7" : "6",
+  "smartube8" : "19"
+}, {
+  "Hora" : "12/12/2017 18:00",
+  "Smartub1" : "9",
+  "smartub2" : "11",
+  "smartub3" : "15",
+  "smartub4" : "7",
+  "smartube5" : "5",
+  "smartube6" : "12",
+  "smartube7" : "35",
+  "smartube8" : "23"
+}, {
+  "Hora" : "12/12/2017 21:00",
+  "Smartub1" : "21",
+  "smartub2" : "30",
+  "smartub3" : "11",
+  "smartub4" : "10",
+  "smartube5" : "35",
+  "smartube6" : "5",
+  "smartube7" : "24",
+  "smartube8" : "19"
+}, {
+  "Hora" : "13/12/2017 00:00",
+  "Smartub1" : "16",
+  "smartub2" : "32",
+  "smartub3" : "30",
+  "smartub4" : "33",
+  "smartube5" : "27",
+  "smartube6" : "30",
+  "smartube7" : "34",
+  "smartube8" : "33"
+}, {
+  "Hora" : "13/12/2017 03:00",
+  "Smartub1" : "28",
+  "smartub2" : "5",
+  "smartub3" : "17",
+  "smartub4" : "26",
+  "smartube5" : "34",
+  "smartube6" : "32",
+  "smartube7" : "12",
+  "smartube8" : "33"
+}, {
+  "Hora" : "13/12/2017 06:00",
+  "Smartub1" : "30",
+  "smartub2" : "22",
+  "smartub3" : "5",
+  "smartub4" : "7",
+  "smartube5" : "35",
+  "smartube6" : "22",
+  "smartube7" : "8",
+  "smartube8" : "31"
+}, {
+  "Hora" : "13/12/2017 09:00",
+  "Smartub1" : "27",
+  "smartub2" : "7",
+  "smartub3" : "25",
+  "smartub4" : "32",
+  "smartube5" : "11",
+  "smartube6" : "19",
+  "smartube7" : "30",
+  "smartube8" : "33"
+}, {
+  "Hora" : "13/12/2017 12:00",
+  "Smartub1" : "9",
+  "smartub2" : "15",
+  "smartub3" : "18",
+  "smartub4" : "30",
+  "smartube5" : "16",
+  "smartube6" : "32",
+  "smartube7" : "19",
+  "smartube8" : "29"
+}, {
+  "Hora" : "13/12/2017 15:00",
+  "Smartub1" : "21",
+  "smartub2" : "9",
+  "smartub3" : "8",
+  "smartub4" : "20",
+  "smartube5" : "34",
+  "smartube6" : "21",
+  "smartube7" : "10",
+  "smartube8" : "25"
+}, {
+  "Hora" : "13/12/2017 18:00",
+  "Smartub1" : "22",
+  "smartub2" : "35",
+  "smartub3" : "6",
+  "smartub4" : "20",
+  "smartube5" : "27",
+  "smartube6" : "33",
+  "smartube7" : "24",
+  "smartube8" : "25"
+}, {
+  "Hora" : "13/12/2017 21:00",
+  "Smartub1" : "31",
+  "smartub2" : "14",
+  "smartub3" : "5",
+  "smartub4" : "6",
+  "smartube5" : "20",
+  "smartube6" : "34",
+  "smartube7" : "7",
+  "smartube8" : "21"
+}, {
+  "Hora" : "14/12/2017 00:00",
+  "Smartub1" : "26",
+  "smartub2" : "32",
+  "smartub3" : "14",
+  "smartub4" : "6",
+  "smartube5" : "35",
+  "smartube6" : "12",
+  "smartube7" : "24",
+  "smartube8" : "14"
+}, {
+  "Hora" : "14/12/2017 03:00",
+  "Smartub1" : "30",
+  "smartub2" : "25",
+  "smartub3" : "34",
+  "smartub4" : "5",
+  "smartube5" : "34",
+  "smartube6" : "16",
+  "smartube7" : "25",
+  "smartube8" : "31"
+}, {
+  "Hora" : "14/12/2017 06:00",
+  "Smartub1" : "34",
+  "smartub2" : "13",
+  "smartub3" : "14",
+  "smartub4" : "11",
+  "smartube5" : "9",
+  "smartube6" : "16",
+  "smartube7" : "15",
+  "smartube8" : "18"
+}, {
+  "Hora" : "14/12/2017 09:00",
+  "Smartub1" : "10",
+  "smartub2" : "15",
+  "smartub3" : "34",
+  "smartub4" : "30",
+  "smartube5" : "32",
+  "smartube6" : "12",
+  "smartube7" : "12",
+  "smartube8" : "35"
+}, {
+  "Hora" : "14/12/2017 12:00",
+  "Smartub1" : "6",
+  "smartub2" : "20",
+  "smartub3" : "15",
+  "smartub4" : "34",
+  "smartube5" : "24",
+  "smartube6" : "35",
+  "smartube7" : "13",
+  "smartube8" : "35"
+}, {
+  "Hora" : "14/12/2017 15:00",
+  "Smartub1" : "25",
+  "smartub2" : "14",
+  "smartub3" : "27",
+  "smartub4" : "8",
+  "smartube5" : "10",
+  "smartube6" : "20",
+  "smartube7" : "15",
+  "smartube8" : "9"
+}, {
+  "Hora" : "14/12/2017 18:00",
+  "Smartub1" : "28",
+  "smartub2" : "6",
+  "smartub3" : "8",
+  "smartub4" : "5",
+  "smartube5" : "30",
+  "smartube6" : "26",
+  "smartube7" : "12",
+  "smartube8" : "8"
+}, {
+  "Hora" : "14/12/2017 21:00",
+  "Smartub1" : "16",
+  "smartub2" : "28",
+  "smartub3" : "26",
+  "smartub4" : "34",
+  "smartube5" : "17",
+  "smartube6" : "29",
+  "smartube7" : "6",
+  "smartube8" : "24"
+}, {
+  "Hora" : "15/12/2017 00:00",
+  "Smartub1" : "8",
+  "smartub2" : "29",
+  "smartub3" : "31",
+  "smartub4" : "31",
+  "smartube5" : "24",
+  "smartube6" : "26",
+  "smartube7" : "31",
+  "smartube8" : "18"
+}, {
+  "Hora" : "15/12/2017 03:00",
+  "Smartub1" : "23",
+  "smartub2" : "31",
+  "smartub3" : "29",
+  "smartub4" : "13",
+  "smartube5" : "30",
+  "smartube6" : "33",
+  "smartube7" : "15",
+  "smartube8" : "28"
+}, {
+  "Hora" : "15/12/2017 06:00",
+  "Smartub1" : "18",
+  "smartub2" : "31",
+  "smartub3" : "32",
+  "smartub4" : "11",
+  "smartube5" : "10",
+  "smartube6" : "27",
+  "smartube7" : "10",
+  "smartube8" : "31"
+}, {
+  "Hora" : "15/12/2017 09:00",
+  "Smartub1" : "33",
+  "smartub2" : "21",
+  "smartub3" : "11",
+  "smartub4" : "7",
+  "smartube5" : "32",
+  "smartube6" : "19",
+  "smartube7" : "26",
+  "smartube8" : "29"
+}, {
+  "Hora" : "15/12/2017 12:00",
+  "Smartub1" : "33",
+  "smartub2" : "7",
+  "smartub3" : "23",
+  "smartub4" : "11",
+  "smartube5" : "10",
+  "smartube6" : "25",
+  "smartube7" : "23",
+  "smartube8" : "24"
+}, {
+  "Hora" : "15/12/2017 15:00",
+  "Smartub1" : "23",
+  "smartub2" : "20",
+  "smartub3" : "9",
+  "smartub4" : "9",
+  "smartube5" : "10",
+  "smartube6" : "30",
+  "smartube7" : "15",
+  "smartube8" : "33"
+}, {
+  "Hora" : "15/12/2017 18:00",
+  "Smartub1" : "17",
+  "smartub2" : "24",
+  "smartub3" : "10",
+  "smartub4" : "21",
+  "smartube5" : "11",
+  "smartube6" : "14",
+  "smartube7" : "20",
+  "smartube8" : "17"
+}, {
+  "Hora" : "15/12/2017 21:00",
+  "Smartub1" : "17",
+  "smartub2" : "13",
+  "smartub3" : "15",
+  "smartub4" : "22",
+  "smartube5" : "29",
+  "smartube6" : "23",
+  "smartube7" : "10",
+  "smartube8" : "24"
+}, {
+  "Hora" : "16/12/2017 00:00",
+  "Smartub1" : "14",
+  "smartub2" : "24",
+  "smartub3" : "7",
+  "smartub4" : "19",
+  "smartube5" : "22",
+  "smartube6" : "10",
+  "smartube7" : "12",
+  "smartube8" : "35"
+}, {
+  "Hora" : "16/12/2017 03:00",
+  "Smartub1" : "17",
+  "smartub2" : "31",
+  "smartub3" : "16",
+  "smartub4" : "35",
+  "smartube5" : "32",
+  "smartube6" : "12",
+  "smartube7" : "34",
+  "smartube8" : "15"
+}, {
+  "Hora" : "16/12/2017 06:00",
+  "Smartub1" : "29",
+  "smartub2" : "24",
+  "smartub3" : "14",
+  "smartub4" : "8",
+  "smartube5" : "12",
+  "smartube6" : "13",
+  "smartube7" : "20",
+  "smartube8" : "20"
+}, {
+  "Hora" : "16/12/2017 09:00",
+  "Smartub1" : "14",
+  "smartub2" : "17",
+  "smartub3" : "24",
+  "smartub4" : "21",
+  "smartube5" : "27",
+  "smartube6" : "7",
+  "smartube7" : "20",
+  "smartube8" : "31"
+}, {
+  "Hora" : "16/12/2017 12:00",
+  "Smartub1" : "24",
+  "smartub2" : "21",
+  "smartub3" : "14",
+  "smartub4" : "28",
+  "smartube5" : "24",
+  "smartube6" : "7",
+  "smartube7" : "22",
+  "smartube8" : "16"
+}, {
+  "Hora" : "16/12/2017 15:00",
+  "Smartub1" : "17",
+  "smartub2" : "13",
+  "smartub3" : "34",
+  "smartub4" : "34",
+  "smartube5" : "12",
+  "smartube6" : "28",
+  "smartube7" : "24",
+  "smartube8" : "12"
+}, {
+  "Hora" : "16/12/2017 18:00",
+  "Smartub1" : "21",
+  "smartub2" : "35",
+  "smartub3" : "12",
+  "smartub4" : "27",
+  "smartube5" : "35",
+  "smartube6" : "30",
+  "smartube7" : "8",
+  "smartube8" : "26"
+}, {
+  "Hora" : "16/12/2017 21:00",
+  "Smartub1" : "19",
+  "smartub2" : "9",
+  "smartub3" : "31",
+  "smartub4" : "32",
+  "smartube5" : "15",
+  "smartube6" : "25",
+  "smartube7" : "24",
+  "smartube8" : "11"
+}, {
+  "Hora" : "17/12/2017 00:00",
+  "Smartub1" : "21",
+  "smartub2" : "22",
+  "smartub3" : "10",
+  "smartub4" : "17",
+  "smartube5" : "31",
+  "smartube6" : "14",
+  "smartube7" : "32",
+  "smartube8" : "14"
+}, {
+  "Hora" : "17/12/2017 03:00",
+  "Smartub1" : "34",
+  "smartub2" : "25",
+  "smartub3" : "29",
+  "smartub4" : "34",
+  "smartube5" : "27",
+  "smartube6" : "20",
+  "smartube7" : "9",
+  "smartube8" : "28"
+}, {
+  "Hora" : "17/12/2017 06:00",
+  "Smartub1" : "35",
+  "smartub2" : "8",
+  "smartub3" : "30",
+  "smartub4" : "23",
+  "smartube5" : "16",
+  "smartube6" : "34",
+  "smartube7" : "26",
+  "smartube8" : "22"
+}, {
+  "Hora" : "17/12/2017 09:00",
+  "Smartub1" : "9",
+  "smartub2" : "26",
+  "smartub3" : "10",
+  "smartub4" : "16",
+  "smartube5" : "13",
+  "smartube6" : "15",
+  "smartube7" : "7",
+  "smartube8" : "18"
+}, {
+  "Hora" : "17/12/2017 12:00",
+  "Smartub1" : "25",
+  "smartub2" : "26",
+  "smartub3" : "18",
+  "smartub4" : "28",
+  "smartube5" : "28",
+  "smartube6" : "20",
+  "smartube7" : "28",
+  "smartube8" : "5"
+}, {
+  "Hora" : "17/12/2017 15:00",
+  "Smartub1" : "14",
+  "smartub2" : "31",
+  "smartub3" : "34",
+  "smartub4" : "35",
+  "smartube5" : "23",
+  "smartube6" : "19",
+  "smartube7" : "10",
+  "smartube8" : "12"
+}, {
+  "Hora" : "17/12/2017 18:00",
+  "Smartub1" : "35",
+  "smartub2" : "14",
+  "smartub3" : "15",
+  "smartub4" : "15",
+  "smartube5" : "7",
+  "smartube6" : "30",
+  "smartube7" : "14",
+  "smartube8" : "32"
+}, {
+  "Hora" : "17/12/2017 21:00",
+  "Smartub1" : "13",
+  "smartub2" : "11",
+  "smartub3" : "17",
+  "smartub4" : "25",
+  "smartube5" : "32",
+  "smartube6" : "25",
+  "smartube7" : "34",
+  "smartube8" : "31"
+}, {
+  "Hora" : "18/12/2017 00:00",
+  "Smartub1" : "32",
+  "smartub2" : "35",
+  "smartub3" : "29",
+  "smartub4" : "10",
+  "smartube5" : "34",
+  "smartube6" : "13",
+  "smartube7" : "23",
+  "smartube8" : "7"
+}, {
+  "Hora" : "18/12/2017 03:00",
+  "Smartub1" : "15",
+  "smartub2" : "9",
+  "smartub3" : "31",
+  "smartub4" : "20",
+  "smartube5" : "22",
+  "smartube6" : "14",
+  "smartube7" : "26",
+  "smartube8" : "13"
+}, {
+  "Hora" : "18/12/2017 06:00",
+  "Smartub1" : "9",
+  "smartub2" : "34",
+  "smartub3" : "28",
+  "smartub4" : "33",
+  "smartube5" : "5",
+  "smartube6" : "11",
+  "smartube7" : "22",
+  "smartube8" : "15"
+}, {
+  "Hora" : "18/12/2017 09:00",
+  "Smartub1" : "27",
+  "smartub2" : "29",
+  "smartub3" : "33",
+  "smartub4" : "5",
+  "smartube5" : "33",
+  "smartube6" : "23",
+  "smartube7" : "5",
+  "smartube8" : "13"
+}, {
+  "Hora" : "18/12/2017 12:00",
+  "Smartub1" : "35",
+  "smartub2" : "34",
+  "smartub3" : "17",
+  "smartub4" : "31",
+  "smartube5" : "26",
+  "smartube6" : "25",
+  "smartube7" : "9",
+  "smartube8" : "26"
+}, {
+  "Hora" : "18/12/2017 15:00",
+  "Smartub1" : "24",
+  "smartub2" : "29",
+  "smartub3" : "9",
+  "smartub4" : "11",
+  "smartube5" : "32",
+  "smartube6" : "22",
+  "smartube7" : "13",
+  "smartube8" : "5"
+}, {
+  "Hora" : "18/12/2017 18:00",
+  "Smartub1" : "21",
+  "smartub2" : "8",
+  "smartub3" : "35",
+  "smartub4" : "9",
+  "smartube5" : "20",
+  "smartube6" : "7",
+  "smartube7" : "23",
+  "smartube8" : "25"
+}, {
+  "Hora" : "18/12/2017 21:00",
+  "Smartub1" : "8",
+  "smartub2" : "14",
+  "smartub3" : "27",
+  "smartub4" : "34",
+  "smartube5" : "17",
+  "smartube6" : "13",
+  "smartube7" : "6",
+  "smartube8" : "24"
+}, {
+  "Hora" : "19/12/2017 00:00",
+  "Smartub1" : "25",
+  "smartub2" : "26",
+  "smartub3" : "9",
+  "smartub4" : "8",
+  "smartube5" : "10",
+  "smartube6" : "11",
+  "smartube7" : "29",
+  "smartube8" : "15"
+}, {
+  "Hora" : "19/12/2017 03:00",
+  "Smartub1" : "29",
+  "smartub2" : "23",
+  "smartub3" : "12",
+  "smartub4" : "33",
+  "smartube5" : "14",
+  "smartube6" : "31",
+  "smartube7" : "16",
+  "smartube8" : "7"
+}, {
+  "Hora" : "19/12/2017 06:00",
+  "Smartub1" : "11",
+  "smartub2" : "10",
+  "smartub3" : "32",
+  "smartub4" : "7",
+  "smartube5" : "21",
+  "smartube6" : "28",
+  "smartube7" : "33",
+  "smartube8" : "17"
+}, {
+  "Hora" : "19/12/2017 09:00",
+  "Smartub1" : "16",
+  "smartub2" : "33",
+  "smartub3" : "26",
+  "smartub4" : "16",
+  "smartube5" : "34",
+  "smartube6" : "10",
+  "smartube7" : "11",
+  "smartube8" : "25"
+}, {
+  "Hora" : "19/12/2017 12:00",
+  "Smartub1" : "28",
+  "smartub2" : "29",
+  "smartub3" : "9",
+  "smartub4" : "8",
+  "smartube5" : "14",
+  "smartube6" : "8",
+  "smartube7" : "6",
+  "smartube8" : "34"
+}, {
+  "Hora" : "19/12/2017 15:00",
+  "Smartub1" : "33",
+  "smartub2" : "30",
+  "smartub3" : "15",
+  "smartub4" : "15",
+  "smartube5" : "29",
+  "smartube6" : "26",
+  "smartube7" : "35",
+  "smartube8" : "21"
+}, {
+  "Hora" : "19/12/2017 18:00",
+  "Smartub1" : "32",
+  "smartub2" : "35",
+  "smartub3" : "5",
+  "smartub4" : "32",
+  "smartube5" : "10",
+  "smartube6" : "31",
+  "smartube7" : "8",
+  "smartube8" : "26"
+}, {
+  "Hora" : "19/12/2017 21:00",
+  "Smartub1" : "25",
+  "smartub2" : "30",
+  "smartub3" : "28",
+  "smartub4" : "27",
+  "smartube5" : "6",
+  "smartube6" : "33",
+  "smartube7" : "32",
+  "smartube8" : "34"
+}, {
+  "Hora" : "20/12/2017 00:00",
+  "Smartub1" : "10",
+  "smartub2" : "32",
+  "smartub3" : "23",
+  "smartub4" : "16",
+  "smartube5" : "30",
+  "smartube6" : "21",
+  "smartube7" : "18",
+  "smartube8" : "29"
+}, {
+  "Hora" : "20/12/2017 03:00",
+  "Smartub1" : "20",
+  "smartub2" : "5",
+  "smartub3" : "14",
+  "smartub4" : "11",
+  "smartube5" : "5",
+  "smartube6" : "34",
+  "smartube7" : "10",
+  "smartube8" : "12"
+}, {
+  "Hora" : "20/12/2017 06:00",
+  "Smartub1" : "24",
+  "smartub2" : "11",
+  "smartub3" : "11",
+  "smartub4" : "11",
+  "smartube5" : "16",
+  "smartube6" : "16",
+  "smartube7" : "27",
+  "smartube8" : "30"
+}, {
+  "Hora" : "20/12/2017 09:00",
+  "Smartub1" : "35",
+  "smartub2" : "18",
+  "smartub3" : "31",
+  "smartub4" : "25",
+  "smartube5" : "14",
+  "smartube6" : "6",
+  "smartube7" : "13",
+  "smartube8" : "33"
+}, {
+  "Hora" : "20/12/2017 12:00",
+  "Smartub1" : "23",
+  "smartub2" : "11",
+  "smartub3" : "12",
+  "smartub4" : "19",
+  "smartube5" : "30",
+  "smartube6" : "30",
+  "smartube7" : "25",
+  "smartube8" : "14"
+}, {
+  "Hora" : "20/12/2017 15:00",
+  "Smartub1" : "34",
+  "smartub2" : "16",
+  "smartub3" : "28",
+  "smartub4" : "6",
+  "smartube5" : "25",
+  "smartube6" : "5",
+  "smartube7" : "13",
+  "smartube8" : "22"
+}, {
+  "Hora" : "20/12/2017 18:00",
+  "Smartub1" : "15",
+  "smartub2" : "20",
+  "smartub3" : "33",
+  "smartub4" : "27",
+  "smartube5" : "31",
+  "smartube6" : "19",
+  "smartube7" : "33",
+  "smartube8" : "24"
+}, {
+  "Hora" : "20/12/2017 21:00",
+  "Smartub1" : "24",
+  "smartub2" : "17",
+  "smartub3" : "25",
+  "smartub4" : "21",
+  "smartube5" : "9",
+  "smartube6" : "14",
+  "smartube7" : "5",
+  "smartube8" : "21"
+}, {
+  "Hora" : "21/12/2017 00:00",
+  "Smartub1" : "34",
+  "smartub2" : "16",
+  "smartub3" : "32",
+  "smartub4" : "30",
+  "smartube5" : "10",
+  "smartube6" : "7",
+  "smartube7" : "31",
+  "smartube8" : "29"
+}, {
+  "Hora" : "21/12/2017 03:00",
+  "Smartub1" : "30",
+  "smartub2" : "20",
+  "smartub3" : "29",
+  "smartub4" : "25",
+  "smartube5" : "33",
+  "smartube6" : "27",
+  "smartube7" : "9",
+  "smartube8" : "11"
+}, {
+  "Hora" : "21/12/2017 06:00",
+  "Smartub1" : "31",
+  "smartub2" : "33",
+  "smartub3" : "27",
+  "smartub4" : "33",
+  "smartube5" : "24",
+  "smartube6" : "18",
+  "smartube7" : "12",
+  "smartube8" : "14"
+}, {
+  "Hora" : "21/12/2017 09:00",
+  "Smartub1" : "25",
+  "smartub2" : "15",
+  "smartub3" : "31",
+  "smartub4" : "9",
+  "smartube5" : "6",
+  "smartube6" : "35",
+  "smartube7" : "25",
+  "smartube8" : "25"
+}, {
+  "Hora" : "21/12/2017 12:00",
+  "Smartub1" : "7",
+  "smartub2" : "31",
+  "smartub3" : "17",
+  "smartub4" : "5",
+  "smartube5" : "27",
+  "smartube6" : "12",
+  "smartube7" : "14",
+  "smartube8" : "7"
+}, {
+  "Hora" : "21/12/2017 15:00",
+  "Smartub1" : "17",
+  "smartub2" : "18",
+  "smartub3" : "9",
+  "smartub4" : "9",
+  "smartube5" : "24",
+  "smartube6" : "6",
+  "smartube7" : "25",
+  "smartube8" : "34"
+}, {
+  "Hora" : "21/12/2017 18:00",
+  "Smartub1" : "20",
+  "smartub2" : "5",
+  "smartub3" : "29",
+  "smartub4" : "16",
+  "smartube5" : "34",
+  "smartube6" : "12",
+  "smartube7" : "13",
+  "smartube8" : "25"
+}, {
+  "Hora" : "21/12/2017 21:00",
+  "Smartub1" : "12",
+  "smartub2" : "8",
+  "smartub3" : "9",
+  "smartub4" : "19",
+  "smartube5" : "9",
+  "smartube6" : "18",
+  "smartube7" : "10",
+  "smartube8" : "34"
+}, {
+  "Hora" : "22/12/2017 00:00",
+  "Smartub1" : "17",
+  "smartub2" : "7",
+  "smartub3" : "8",
+  "smartub4" : "15",
+  "smartube5" : "8",
+  "smartube6" : "35",
+  "smartube7" : "25",
+  "smartube8" : "11"
+}, {
+  "Hora" : "22/12/2017 03:00",
+  "Smartub1" : "18",
+  "smartub2" : "27",
+  "smartub3" : "28",
+  "smartub4" : "9",
+  "smartube5" : "17",
+  "smartube6" : "19",
+  "smartube7" : "24",
+  "smartube8" : "20"
+}, {
+  "Hora" : "22/12/2017 06:00",
+  "Smartub1" : "13",
+  "smartub2" : "22",
+  "smartub3" : "23",
+  "smartub4" : "7",
+  "smartube5" : "30",
+  "smartube6" : "13",
+  "smartube7" : "16",
+  "smartube8" : "16"
+}, {
+  "Hora" : "22/12/2017 09:00",
+  "Smartub1" : "21",
+  "smartub2" : "12",
+  "smartub3" : "26",
+  "smartub4" : "30",
+  "smartube5" : "21",
+  "smartube6" : "34",
+  "smartube7" : "23",
+  "smartube8" : "10"
+}, {
+  "Hora" : "22/12/2017 12:00",
+  "Smartub1" : "27",
+  "smartub2" : "34",
+  "smartub3" : "19",
+  "smartub4" : "5",
+  "smartube5" : "17",
+  "smartube6" : "11",
+  "smartube7" : "28",
+  "smartube8" : "27"
+}, {
+  "Hora" : "22/12/2017 15:00",
+  "Smartub1" : "35",
+  "smartub2" : "6",
+  "smartub3" : "10",
+  "smartub4" : "30",
+  "smartube5" : "33",
+  "smartube6" : "5",
+  "smartube7" : "24",
+  "smartube8" : "8"
+}, {
+  "Hora" : "22/12/2017 18:00",
+  "Smartub1" : "6",
+  "smartub2" : "20",
+  "smartub3" : "23",
+  "smartub4" : "14",
+  "smartube5" : "12",
+  "smartube6" : "26",
+  "smartube7" : "19",
+  "smartube8" : "11"
+}, {
+  "Hora" : "22/12/2017 21:00",
+  "Smartub1" : "32",
+  "smartub2" : "31",
+  "smartub3" : "7",
+  "smartub4" : "15",
+  "smartube5" : "12",
+  "smartube6" : "24",
+  "smartube7" : "34",
+  "smartube8" : "21"
+}, {
+  "Hora" : "23/12/2017 00:00",
+  "Smartub1" : "34",
+  "smartub2" : "27",
+  "smartub3" : "13",
+  "smartub4" : "7",
+  "smartube5" : "33",
+  "smartube6" : "30",
+  "smartube7" : "15",
+  "smartube8" : "14"
+}, {
+  "Hora" : "23/12/2017 03:00",
+  "Smartub1" : "11",
+  "smartub2" : "30",
+  "smartub3" : "10",
+  "smartub4" : "33",
+  "smartube5" : "29",
+  "smartube6" : "14",
+  "smartube7" : "14",
+  "smartube8" : "24"
+}, {
+  "Hora" : "23/12/2017 06:00",
+  "Smartub1" : "17",
+  "smartub2" : "29",
+  "smartub3" : "34",
+  "smartub4" : "5",
+  "smartube5" : "22",
+  "smartube6" : "35",
+  "smartube7" : "16",
+  "smartube8" : "26"
+}, {
+  "Hora" : "23/12/2017 09:00",
+  "Smartub1" : "8",
+  "smartub2" : "25",
+  "smartub3" : "32",
+  "smartub4" : "5",
+  "smartube5" : "19",
+  "smartube6" : "6",
+  "smartube7" : "15",
+  "smartube8" : "16"
+}, {
+  "Hora" : "23/12/2017 12:00",
+  "Smartub1" : "32",
+  "smartub2" : "19",
+  "smartub3" : "7",
+  "smartub4" : "19",
+  "smartube5" : "31",
+  "smartube6" : "25",
+  "smartube7" : "8",
+  "smartube8" : "9"
+}, {
+  "Hora" : "23/12/2017 15:00",
+  "Smartub1" : "21",
+  "smartub2" : "34",
+  "smartub3" : "23",
+  "smartub4" : "28",
+  "smartube5" : "35",
+  "smartube6" : "21",
+  "smartube7" : "8",
+  "smartube8" : "26"
+}, {
+  "Hora" : "23/12/2017 18:00",
+  "Smartub1" : "30",
+  "smartub2" : "34",
+  "smartub3" : "14",
+  "smartub4" : "30",
+  "smartube5" : "5",
+  "smartube6" : "7",
+  "smartube7" : "16",
+  "smartube8" : "26"
+}, {
+  "Hora" : "23/12/2017 21:00",
+  "Smartub1" : "11",
+  "smartub2" : "7",
+  "smartub3" : "25",
+  "smartub4" : "24",
+  "smartube5" : "6",
+  "smartube6" : "19",
+  "smartube7" : "18",
+  "smartube8" : "5"
+}, {
+  "Hora" : "24/12/2017 00:00",
+  "Smartub1" : "7",
+  "smartub2" : "15",
+  "smartub3" : "15",
+  "smartub4" : "19",
+  "smartube5" : "35",
+  "smartube6" : "31",
+  "smartube7" : "19",
+  "smartube8" : "17"
+}, {
+  "Hora" : "24/12/2017 03:00",
+  "Smartub1" : "6",
+  "smartub2" : "22",
+  "smartub3" : "31",
+  "smartub4" : "22",
+  "smartube5" : "9",
+  "smartube6" : "25",
+  "smartube7" : "14",
+  "smartube8" : "30"
+}, {
+  "Hora" : "24/12/2017 06:00",
+  "Smartub1" : "14",
+  "smartub2" : "18",
+  "smartub3" : "6",
+  "smartub4" : "14",
+  "smartube5" : "26",
+  "smartube6" : "29",
+  "smartube7" : "8",
+  "smartube8" : "25"
+}, {
+  "Hora" : "24/12/2017 09:00",
+  "Smartub1" : "16",
+  "smartub2" : "34",
+  "smartub3" : "34",
+  "smartub4" : "34",
+  "smartube5" : "23",
+  "smartube6" : "26",
+  "smartube7" : "11",
+  "smartube8" : "5"
+}, {
+  "Hora" : "24/12/2017 12:00",
+  "Smartub1" : "33",
+  "smartub2" : "11",
+  "smartub3" : "33",
+  "smartub4" : "33",
+  "smartube5" : "23",
+  "smartube6" : "28",
+  "smartube7" : "25",
+  "smartube8" : "29"
+}, {
+  "Hora" : "24/12/2017 15:00",
+  "Smartub1" : "21",
+  "smartub2" : "26",
+  "smartub3" : "9",
+  "smartub4" : "22",
+  "smartube5" : "30",
+  "smartube6" : "23",
+  "smartube7" : "8",
+  "smartube8" : "5"
+}, {
+  "Hora" : "24/12/2017 18:00",
+  "Smartub1" : "5",
+  "smartub2" : "26",
+  "smartub3" : "33",
+  "smartub4" : "33",
+  "smartube5" : "21",
+  "smartube6" : "10",
+  "smartube7" : "11",
+  "smartube8" : "8"
+}, {
+  "Hora" : "24/12/2017 21:00",
+  "Smartub1" : "22",
+  "smartub2" : "26",
+  "smartub3" : "22",
+  "smartub4" : "14",
+  "smartube5" : "32",
+  "smartube6" : "8",
+  "smartube7" : "6",
+  "smartube8" : "19"
+}, {
+  "Hora" : "25/12/2017 00:00",
+  "Smartub1" : "31",
+  "smartub2" : "13",
+  "smartub3" : "6",
+  "smartub4" : "6",
+  "smartube5" : "30",
+  "smartube6" : "26",
+  "smartube7" : "32",
+  "smartube8" : "32"
+}, {
+  "Hora" : "25/12/2017 03:00",
+  "Smartub1" : "20",
+  "smartub2" : "20",
+  "smartub3" : "19",
+  "smartub4" : "16",
+  "smartube5" : "24",
+  "smartube6" : "18",
+  "smartube7" : "12",
+  "smartube8" : "8"
+}, {
+  "Hora" : "25/12/2017 06:00",
+  "Smartub1" : "19",
+  "smartub2" : "29",
+  "smartub3" : "25",
+  "smartub4" : "19",
+  "smartube5" : "35",
+  "smartube6" : "27",
+  "smartube7" : "26",
+  "smartube8" : "22"
+}, {
+  "Hora" : "25/12/2017 09:00",
+  "Smartub1" : "21",
+  "smartub2" : "10",
+  "smartub3" : "20",
+  "smartub4" : "32",
+  "smartube5" : "27",
+  "smartube6" : "28",
+  "smartube7" : "20",
+  "smartube8" : "13"
+}, {
+  "Hora" : "25/12/2017 12:00",
+  "Smartub1" : "27",
+  "smartub2" : "14",
+  "smartub3" : "15",
+  "smartub4" : "18",
+  "smartube5" : "8",
+  "smartube6" : "33",
+  "smartube7" : "19",
+  "smartube8" : "21"
+}, {
+  "Hora" : "25/12/2017 15:00",
+  "Smartub1" : "26",
+  "smartub2" : "23",
+  "smartub3" : "13",
+  "smartub4" : "13",
+  "smartube5" : "20",
+  "smartube6" : "34",
+  "smartube7" : "27",
+  "smartube8" : "19"
+}, {
+  "Hora" : "25/12/2017 18:00",
+  "Smartub1" : "8",
+  "smartub2" : "23",
+  "smartub3" : "6",
+  "smartub4" : "8",
+  "smartube5" : "6",
+  "smartube6" : "9",
+  "smartube7" : "35",
+  "smartube8" : "32"
+}, {
+  "Hora" : "25/12/2017 21:00",
+  "Smartub1" : "9",
+  "smartub2" : "25",
+  "smartub3" : "7",
+  "smartub4" : "21",
+  "smartube5" : "6",
+  "smartube6" : "8",
+  "smartube7" : "8",
+  "smartube8" : "7"
+}, {
+  "Hora" : "26/12/2017 00:00",
+  "Smartub1" : "19",
+  "smartub2" : "21",
+  "smartub3" : "34",
+  "smartub4" : "24",
+  "smartube5" : "5",
+  "smartube6" : "15",
+  "smartube7" : "23",
+  "smartube8" : "13"
+}, {
+  "Hora" : "26/12/2017 03:00",
+  "Smartub1" : "22",
+  "smartub2" : "21",
+  "smartub3" : "8",
+  "smartub4" : "26",
+  "smartube5" : "24",
+  "smartube6" : "27",
+  "smartube7" : "26",
+  "smartube8" : "11"
+}, {
+  "Hora" : "26/12/2017 06:00",
+  "Smartub1" : "11",
+  "smartub2" : "33",
+  "smartub3" : "34",
+  "smartub4" : "8",
+  "smartube5" : "15",
+  "smartube6" : "33",
+  "smartube7" : "28",
+  "smartube8" : "31"
+}, {
+  "Hora" : "26/12/2017 09:00",
+  "Smartub1" : "10",
+  "smartub2" : "26",
+  "smartub3" : "27",
+  "smartub4" : "10",
+  "smartube5" : "21",
+  "smartube6" : "12",
+  "smartube7" : "27",
+  "smartube8" : "32"
+}, {
+  "Hora" : "26/12/2017 12:00",
+  "Smartub1" : "7",
+  "smartub2" : "33",
+  "smartub3" : "14",
+  "smartub4" : "28",
+  "smartube5" : "16",
+  "smartube6" : "17",
+  "smartube7" : "20",
+  "smartube8" : "33"
+}, {
+  "Hora" : "26/12/2017 15:00",
+  "Smartub1" : "32",
+  "smartub2" : "19",
+  "smartub3" : "24",
+  "smartub4" : "9",
+  "smartube5" : "29",
+  "smartube6" : "23",
+  "smartube7" : "29",
+  "smartube8" : "27"
+}, {
+  "Hora" : "26/12/2017 18:00",
+  "Smartub1" : "27",
+  "smartub2" : "27",
+  "smartub3" : "6",
+  "smartub4" : "24",
+  "smartube5" : "25",
+  "smartube6" : "35",
+  "smartube7" : "20",
+  "smartube8" : "33"
+}, {
+  "Hora" : "26/12/2017 21:00",
+  "Smartub1" : "32",
+  "smartub2" : "20",
+  "smartub3" : "20",
+  "smartub4" : "27",
+  "smartube5" : "9",
+  "smartube6" : "18",
+  "smartube7" : "30",
+  "smartube8" : "13"
+}, {
+  "Hora" : "27/12/2017 00:00",
+  "Smartub1" : "30",
+  "smartub2" : "16",
+  "smartub3" : "35",
+  "smartub4" : "18",
+  "smartube5" : "29",
+  "smartube6" : "11",
+  "smartube7" : "22",
+  "smartube8" : "27"
+}, {
+  "Hora" : "27/12/2017 03:00",
+  "Smartub1" : "35",
+  "smartub2" : "30",
+  "smartub3" : "27",
+  "smartub4" : "19",
+  "smartube5" : "23",
+  "smartube6" : "25",
+  "smartube7" : "17",
+  "smartube8" : "16"
+}, {
+  "Hora" : "27/12/2017 06:00",
+  "Smartub1" : "8",
+  "smartub2" : "13",
+  "smartub3" : "6",
+  "smartub4" : "20",
+  "smartube5" : "14",
+  "smartube6" : "6",
+  "smartube7" : "7",
+  "smartube8" : "12"
+}, {
+  "Hora" : "27/12/2017 09:00",
+  "Smartub1" : "12",
+  "smartub2" : "8",
+  "smartub3" : "12",
+  "smartub4" : "29",
+  "smartube5" : "27",
+  "smartube6" : "14",
+  "smartube7" : "29",
+  "smartube8" : "17"
+}, {
+  "Hora" : "27/12/2017 12:00",
+  "Smartub1" : "19",
+  "smartub2" : "8",
+  "smartub3" : "31",
+  "smartub4" : "35",
+  "smartube5" : "5",
+  "smartube6" : "19",
+  "smartube7" : "6",
+  "smartube8" : "33"
+}, {
+  "Hora" : "27/12/2017 15:00",
+  "Smartub1" : "9",
+  "smartub2" : "13",
+  "smartub3" : "35",
+  "smartub4" : "19",
+  "smartube5" : "24",
+  "smartube6" : "23",
+  "smartube7" : "14",
+  "smartube8" : "32"
+}, {
+  "Hora" : "27/12/2017 18:00",
+  "Smartub1" : "16",
+  "smartub2" : "33",
+  "smartub3" : "29",
+  "smartub4" : "20",
+  "smartube5" : "32",
+  "smartube6" : "5",
+  "smartube7" : "31",
+  "smartube8" : "11"
+}, {
+  "Hora" : "27/12/2017 21:00",
+  "Smartub1" : "7",
+  "smartub2" : "22",
+  "smartub3" : "21",
+  "smartub4" : "6",
+  "smartube5" : "31",
+  "smartube6" : "35",
+  "smartube7" : "17",
+  "smartube8" : "32"
+}, {
+  "Hora" : "28/12/2017 00:00",
+  "Smartub1" : "26",
+  "smartub2" : "35",
+  "smartub3" : "12",
+  "smartub4" : "29",
+  "smartube5" : "28",
+  "smartube6" : "16",
+  "smartube7" : "8",
+  "smartube8" : "7"
+}, {
+  "Hora" : "28/12/2017 03:00",
+  "Smartub1" : "27",
+  "smartub2" : "31",
+  "smartub3" : "8",
+  "smartub4" : "31",
+  "smartube5" : "21",
+  "smartube6" : "15",
+  "smartube7" : "20",
+  "smartube8" : "11"
+}, {
+  "Hora" : "28/12/2017 06:00",
+  "Smartub1" : "26",
+  "smartub2" : "8",
+  "smartub3" : "20",
+  "smartub4" : "16",
+  "smartube5" : "18",
+  "smartube6" : "27",
+  "smartube7" : "6",
+  "smartube8" : "7"
+}, {
+  "Hora" : "28/12/2017 09:00",
+  "Smartub1" : "32",
+  "smartub2" : "11",
+  "smartub3" : "32",
+  "smartub4" : "9",
+  "smartube5" : "20",
+  "smartube6" : "13",
+  "smartube7" : "22",
+  "smartube8" : "17"
+}, {
+  "Hora" : "28/12/2017 12:00",
+  "Smartub1" : "20",
+  "smartub2" : "33",
+  "smartub3" : "17",
+  "smartub4" : "34",
+  "smartube5" : "33",
+  "smartube6" : "13",
+  "smartube7" : "11",
+  "smartube8" : "17"
+}, {
+  "Hora" : "28/12/2017 15:00",
+  "Smartub1" : "16",
+  "smartub2" : "11",
+  "smartub3" : "6",
+  "smartub4" : "20",
+  "smartube5" : "14",
+  "smartube6" : "22",
+  "smartube7" : "24",
+  "smartube8" : "33"
+}, {
+  "Hora" : "28/12/2017 18:00",
+  "Smartub1" : "13",
+  "smartub2" : "16",
+  "smartub3" : "23",
+  "smartub4" : "26",
+  "smartube5" : "5",
+  "smartube6" : "15",
+  "smartube7" : "22",
+  "smartube8" : "35"
+}, {
+  "Hora" : "28/12/2017 21:00",
+  "Smartub1" : "11",
+  "smartub2" : "16",
+  "smartub3" : "7",
+  "smartub4" : "34",
+  "smartube5" : "12",
+  "smartube6" : "17",
+  "smartube7" : "13",
+  "smartube8" : "23"
+}, {
+  "Hora" : "29/12/2017 00:00",
+  "Smartub1" : "6",
+  "smartub2" : "9",
+  "smartub3" : "9",
+  "smartub4" : "17",
+  "smartube5" : "33",
+  "smartube6" : "15",
+  "smartube7" : "34",
+  "smartube8" : "30"
+}, {
+  "Hora" : "29/12/2017 03:00",
+  "Smartub1" : "32",
+  "smartub2" : "21",
+  "smartub3" : "10",
+  "smartub4" : "25",
+  "smartube5" : "17",
+  "smartube6" : "26",
+  "smartube7" : "35",
+  "smartube8" : "23"
+}, {
+  "Hora" : "29/12/2017 06:00",
+  "Smartub1" : "31",
+  "smartub2" : "23",
+  "smartub3" : "29",
+  "smartub4" : "20",
+  "smartube5" : "10",
+  "smartube6" : "6",
+  "smartube7" : "7",
+  "smartube8" : "21"
+}, {
+  "Hora" : "29/12/2017 09:00",
+  "Smartub1" : "23",
+  "smartub2" : "20",
+  "smartub3" : "19",
+  "smartub4" : "10",
+  "smartube5" : "18",
+  "smartube6" : "5",
+  "smartube7" : "17",
+  "smartube8" : "20"
+}, {
+  "Hora" : "29/12/2017 12:00",
+  "Smartub1" : "25",
+  "smartub2" : "32",
+  "smartub3" : "17",
+  "smartub4" : "25",
+  "smartube5" : "29",
+  "smartube6" : "35",
+  "smartube7" : "14",
+  "smartube8" : "13"
+}, {
+  "Hora" : "29/12/2017 15:00",
+  "Smartub1" : "34",
+  "smartub2" : "35",
+  "smartub3" : "31",
+  "smartub4" : "16",
+  "smartube5" : "10",
+  "smartube6" : "7",
+  "smartube7" : "19",
+  "smartube8" : "28"
+}, {
+  "Hora" : "29/12/2017 18:00",
+  "Smartub1" : "34",
+  "smartub2" : "5",
+  "smartub3" : "29",
+  "smartub4" : "26",
+  "smartube5" : "26",
+  "smartube6" : "13",
+  "smartube7" : "30",
+  "smartube8" : "22"
+}, {
+  "Hora" : "29/12/2017 21:00",
+  "Smartub1" : "6",
+  "smartub2" : "15",
+  "smartub3" : "28",
+  "smartub4" : "30",
+  "smartube5" : "16",
+  "smartube6" : "32",
+  "smartube7" : "7",
+  "smartube8" : "5"
+}, {
+  "Hora" : "30/12/2017 00:00",
+  "Smartub1" : "8",
+  "smartub2" : "6",
+  "smartub3" : "34",
+  "smartub4" : "30",
+  "smartube5" : "7",
+  "smartube6" : "26",
+  "smartube7" : "16",
+  "smartube8" : "18"
+}, {
+  "Hora" : "30/12/2017 03:00",
+  "Smartub1" : "23",
+  "smartub2" : "29",
+  "smartub3" : "13",
+  "smartub4" : "15",
+  "smartube5" : "33",
+  "smartube6" : "19",
+  "smartube7" : "25",
+  "smartube8" : "30"
+}, {
+  "Hora" : "30/12/2017 06:00",
+  "Smartub1" : "15",
+  "smartub2" : "11",
+  "smartub3" : "28",
+  "smartub4" : "25",
+  "smartube5" : "5",
+  "smartube6" : "25",
+  "smartube7" : "34",
+  "smartube8" : "26"
+}, {
+  "Hora" : "30/12/2017 09:00",
+  "Smartub1" : "34",
+  "smartub2" : "33",
+  "smartub3" : "33",
+  "smartub4" : "13",
+  "smartube5" : "27",
+  "smartube6" : "19",
+  "smartube7" : "6",
+  "smartube8" : "31"
+}, {
+  "Hora" : "30/12/2017 12:00",
+  "Smartub1" : "28",
+  "smartub2" : "24",
+  "smartub3" : "17",
+  "smartub4" : "9",
+  "smartube5" : "23",
+  "smartube6" : "30",
+  "smartube7" : "33",
+  "smartube8" : "13"
+}, {
+  "Hora" : "30/12/2017 15:00",
+  "Smartub1" : "16",
+  "smartub2" : "33",
+  "smartub3" : "14",
+  "smartub4" : "24",
+  "smartube5" : "8",
+  "smartube6" : "29",
+  "smartube7" : "32",
+  "smartube8" : "24"
+}, {
+  "Hora" : "30/12/2017 18:00",
+  "Smartub1" : "26",
+  "smartub2" : "11",
+  "smartub3" : "7",
+  "smartub4" : "9",
+  "smartube5" : "32",
+  "smartube6" : "15",
+  "smartube7" : "27",
+  "smartube8" : "34"
+}, {
+  "Hora" : "30/12/2017 21:00",
+  "Smartub1" : "19",
+  "smartub2" : "12",
+  "smartub3" : "27",
+  "smartub4" : "34",
+  "smartube5" : "7",
+  "smartube6" : "5",
+  "smartube7" : "8",
+  "smartube8" : "28"
+}, {
+  "Hora" : "31/12/2017 00:00",
+  "Smartub1" : "34",
+  "smartub2" : "12",
+  "smartub3" : "8",
+  "smartub4" : "18",
+  "smartube5" : "8",
+  "smartube6" : "27",
+  "smartube7" : "18",
+  "smartube8" : "25"
+}, {
+  "Hora" : "31/12/2017 03:00",
+  "Smartub1" : "21",
+  "smartub2" : "30",
+  "smartub3" : "21",
+  "smartub4" : "6",
+  "smartube5" : "18",
+  "smartube6" : "13",
+  "smartube7" : "35",
+  "smartube8" : "25"
+}, {
+  "Hora" : "31/12/2017 06:00",
+  "Smartub1" : "10",
+  "smartub2" : "5",
+  "smartub3" : "18",
+  "smartub4" : "8",
+  "smartube5" : "33",
+  "smartube6" : "10",
+  "smartube7" : "6",
+  "smartube8" : "33"
+}, {
+  "Hora" : "31/12/2017 09:00",
+  "Smartub1" : "27",
+  "smartub2" : "12",
+  "smartub3" : "5",
+  "smartub4" : "5",
+  "smartube5" : "8",
+  "smartube6" : "22",
+  "smartube7" : "26",
+  "smartube8" : "9"
+}, {
+  "Hora" : "31/12/2017 12:00",
+  "Smartub1" : "10",
+  "smartub2" : "18",
+  "smartub3" : "23",
+  "smartub4" : "21",
+  "smartube5" : "11",
+  "smartube6" : "32",
+  "smartube7" : "34",
+  "smartube8" : "11"
+}, {
+  "Hora" : "31/12/2017 15:00",
+  "Smartub1" : "29",
+  "smartub2" : "5",
+  "smartub3" : "6",
+  "smartub4" : "26",
+  "smartube5" : "28",
+  "smartube6" : "7",
+  "smartube7" : "17",
+  "smartube8" : "27"
+}, {
+  "Hora" : "31/12/2017 18:00",
+  "Smartub1" : "22",
+  "smartub2" : "18",
+  "smartub3" : "29",
+  "smartub4" : "12",
+  "smartube5" : "14",
+  "smartube6" : "19",
+  "smartube7" : "27",
+  "smartube8" : "27"
+}, {
+  "Hora" : "31/12/2017 21:00",
+  "Smartub1" : "16",
+  "smartub2" : "5",
+  "smartub3" : "18",
+  "smartub4" : "6",
+  "smartube5" : "27",
+  "smartube6" : "28",
+  "smartube7" : "35",
+  "smartube8" : "16"
+}, {
+  "Hora" : "1/1/2018 00:00",
+  "Smartub1" : "9",
+  "smartub2" : "20",
+  "smartub3" : "25",
+  "smartub4" : "30",
+  "smartube5" : "9",
+  "smartube6" : "7",
+  "smartube7" : "10",
+  "smartube8" : "32"
+}, {
+  "Hora" : "1/1/2018 03:00",
+  "Smartub1" : "35",
+  "smartub2" : "28",
+  "smartub3" : "22",
+  "smartub4" : "22",
+  "smartube5" : "5",
+  "smartube6" : "10",
+  "smartube7" : "17",
+  "smartube8" : "35"
+}, {
+  "Hora" : "1/1/2018 06:00",
+  "Smartub1" : "30",
+  "smartub2" : "27",
+  "smartub3" : "14",
+  "smartub4" : "24",
+  "smartube5" : "9",
+  "smartube6" : "31",
+  "smartube7" : "7",
+  "smartube8" : "17"
+}, {
+  "Hora" : "1/1/2018 09:00",
+  "Smartub1" : "30",
+  "smartub2" : "16",
+  "smartub3" : "28",
+  "smartub4" : "19",
+  "smartube5" : "30",
+  "smartube6" : "16",
+  "smartube7" : "24",
+  "smartube8" : "31"
+}, {
+  "Hora" : "1/1/2018 12:00",
+  "Smartub1" : "35",
+  "smartub2" : "22",
+  "smartub3" : "28",
+  "smartub4" : "26",
+  "smartube5" : "32",
+  "smartube6" : "31",
+  "smartube7" : "28",
+  "smartube8" : "28"
+}, {
+  "Hora" : "1/1/2018 15:00",
+  "Smartub1" : "22",
+  "smartub2" : "6",
+  "smartub3" : "35",
+  "smartub4" : "25",
+  "smartube5" : "17",
+  "smartube6" : "6",
+  "smartube7" : "21",
+  "smartube8" : "6"
+}, {
+  "Hora" : "1/1/2018 18:00",
+  "Smartub1" : "24",
+  "smartub2" : "14",
+  "smartub3" : "31",
+  "smartub4" : "9",
+  "smartube5" : "17",
+  "smartube6" : "21",
+  "smartube7" : "14",
+  "smartube8" : "34"
+}, {
+  "Hora" : "1/1/2018 21:00",
+  "Smartub1" : "19",
+  "smartub2" : "18",
+  "smartub3" : "31",
+  "smartub4" : "5",
+  "smartube5" : "25",
+  "smartube6" : "34",
+  "smartube7" : "29",
+  "smartube8" : "23"
+}, {
+  "Hora" : "2/1/2018 00:00",
+  "Smartub1" : "10",
+  "smartub2" : "29",
+  "smartub3" : "8",
+  "smartub4" : "6",
+  "smartube5" : "30",
+  "smartube6" : "10",
+  "smartube7" : "11",
+  "smartube8" : "17"
+}, {
+  "Hora" : "2/1/2018 03:00",
+  "Smartub1" : "33",
+  "smartub2" : "25",
+  "smartub3" : "21",
+  "smartub4" : "30",
+  "smartube5" : "18",
+  "smartube6" : "35",
+  "smartube7" : "9",
+  "smartube8" : "7"
+}, {
+  "Hora" : "2/1/2018 06:00",
+  "Smartub1" : "26",
+  "smartub2" : "25",
+  "smartub3" : "23",
+  "smartub4" : "21",
+  "smartube5" : "26",
+  "smartube6" : "11",
+  "smartube7" : "6",
+  "smartube8" : "14"
+}, {
+  "Hora" : "2/1/2018 09:00",
+  "Smartub1" : "24",
+  "smartub2" : "34",
+  "smartub3" : "32",
+  "smartub4" : "10",
+  "smartube5" : "32",
+  "smartube6" : "17",
+  "smartube7" : "16",
+  "smartube8" : "22"
+}, {
+  "Hora" : "2/1/2018 12:00",
+  "Smartub1" : "11",
+  "smartub2" : "19",
+  "smartub3" : "13",
+  "smartub4" : "14",
+  "smartube5" : "29",
+  "smartube6" : "9",
+  "smartube7" : "15",
+  "smartube8" : "8"
+}, {
+  "Hora" : "2/1/2018 15:00",
+  "Smartub1" : "14",
+  "smartub2" : "35",
+  "smartub3" : "12",
+  "smartub4" : "19",
+  "smartube5" : "26",
+  "smartube6" : "23",
+  "smartube7" : "13",
+  "smartube8" : "10"
+}, {
+  "Hora" : "2/1/2018 18:00",
+  "Smartub1" : "30",
+  "smartub2" : "16",
+  "smartub3" : "10",
+  "smartub4" : "15",
+  "smartube5" : "6",
+  "smartube6" : "24",
+  "smartube7" : "18",
+  "smartube8" : "19"
+}, {
+  "Hora" : "2/1/2018 21:00",
+  "Smartub1" : "24",
+  "smartub2" : "25",
+  "smartub3" : "22",
+  "smartub4" : "7",
+  "smartube5" : "30",
+  "smartube6" : "32",
+  "smartube7" : "5",
+  "smartube8" : "9"
+}, {
+  "Hora" : "3/1/2018 00:00",
+  "Smartub1" : "14",
+  "smartub2" : "28",
+  "smartub3" : "35",
+  "smartub4" : "35",
+  "smartube5" : "21",
+  "smartube6" : "31",
+  "smartube7" : "10",
+  "smartube8" : "32"
+}, {
+  "Hora" : "3/1/2018 03:00",
+  "Smartub1" : "22",
+  "smartub2" : "20",
+  "smartub3" : "31",
+  "smartub4" : "13",
+  "smartube5" : "18",
+  "smartube6" : "14",
+  "smartube7" : "34",
+  "smartube8" : "22"
+}, {
+  "Hora" : "3/1/2018 06:00",
+  "Smartub1" : "6",
+  "smartub2" : "14",
+  "smartub3" : "25",
+  "smartub4" : "26",
+  "smartube5" : "7",
+  "smartube6" : "16",
+  "smartube7" : "13",
+  "smartube8" : "20"
+}, {
+  "Hora" : "3/1/2018 09:00",
+  "Smartub1" : "11",
+  "smartub2" : "21",
+  "smartub3" : "12",
+  "smartub4" : "5",
+  "smartube5" : "9",
+  "smartube6" : "14",
+  "smartube7" : "35",
+  "smartube8" : "10"
+}, {
+  "Hora" : "3/1/2018 12:00",
+  "Smartub1" : "10",
+  "smartub2" : "20",
+  "smartub3" : "16",
+  "smartub4" : "5",
+  "smartube5" : "21",
+  "smartube6" : "19",
+  "smartube7" : "32",
+  "smartube8" : "23"
+}, {
+  "Hora" : "3/1/2018 15:00",
+  "Smartub1" : "23",
+  "smartub2" : "8",
+  "smartub3" : "26",
+  "smartub4" : "19",
+  "smartube5" : "7",
+  "smartube6" : "20",
+  "smartube7" : "6",
+  "smartube8" : "25"
+}, {
+  "Hora" : "3/1/2018 18:00",
+  "Smartub1" : "20",
+  "smartub2" : "17",
+  "smartub3" : "32",
+  "smartub4" : "5",
+  "smartube5" : "21",
+  "smartube6" : "17",
+  "smartube7" : "17",
+  "smartube8" : "23"
+}, {
+  "Hora" : "3/1/2018 21:00",
+  "Smartub1" : "6",
+  "smartub2" : "34",
+  "smartub3" : "12",
+  "smartub4" : "23",
+  "smartube5" : "35",
+  "smartube6" : "15",
+  "smartube7" : "7",
+  "smartube8" : "27"
+}, {
+  "Hora" : "4/1/2018 00:00",
+  "Smartub1" : "16",
+  "smartub2" : "5",
+  "smartub3" : "17",
+  "smartub4" : "10",
+  "smartube5" : "33",
+  "smartube6" : "18",
+  "smartube7" : "18",
+  "smartube8" : "23"
+}, {
+  "Hora" : "4/1/2018 03:00",
+  "Smartub1" : "28",
+  "smartub2" : "26",
+  "smartub3" : "8",
+  "smartub4" : "5",
+  "smartube5" : "32",
+  "smartube6" : "27",
+  "smartube7" : "24",
+  "smartube8" : "29"
+}, {
+  "Hora" : "4/1/2018 06:00",
+  "Smartub1" : "14",
+  "smartub2" : "6",
+  "smartub3" : "16",
+  "smartub4" : "28",
+  "smartube5" : "16",
+  "smartube6" : "35",
+  "smartube7" : "16",
+  "smartube8" : "31"
+}, {
+  "Hora" : "4/1/2018 09:00",
+  "Smartub1" : "24",
+  "smartub2" : "32",
+  "smartub3" : "12",
+  "smartub4" : "24",
+  "smartube5" : "11",
+  "smartube6" : "18",
+  "smartube7" : "18",
+  "smartube8" : "7"
+}, {
+  "Hora" : "4/1/2018 12:00",
+  "Smartub1" : "35",
+  "smartub2" : "26",
+  "smartub3" : "12",
+  "smartub4" : "8",
+  "smartube5" : "33",
+  "smartube6" : "6",
+  "smartube7" : "25",
+  "smartube8" : "21"
+}, {
+  "Hora" : "4/1/2018 15:00",
+  "Smartub1" : "25",
+  "smartub2" : "32",
+  "smartub3" : "29",
+  "smartub4" : "26",
+  "smartube5" : "11",
+  "smartube6" : "23",
+  "smartube7" : "8",
+  "smartube8" : "30"
+}, {
+  "Hora" : "4/1/2018 18:00",
+  "Smartub1" : "15",
+  "smartub2" : "12",
+  "smartub3" : "8",
+  "smartub4" : "23",
+  "smartube5" : "25",
+  "smartube6" : "24",
+  "smartube7" : "23",
+  "smartube8" : "26"
+}, {
+  "Hora" : "4/1/2018 21:00",
+  "Smartub1" : "22",
+  "smartub2" : "26",
+  "smartub3" : "27",
+  "smartub4" : "9",
+  "smartube5" : "28",
+  "smartube6" : "8",
+  "smartube7" : "11",
+  "smartube8" : "34"
+}, {
+  "Hora" : "5/1/2018 00:00",
+  "Smartub1" : "17",
+  "smartub2" : "30",
+  "smartub3" : "33",
+  "smartub4" : "30",
+  "smartube5" : "23",
+  "smartube6" : "14",
+  "smartube7" : "6",
+  "smartube8" : "7"
+}, {
+  "Hora" : "5/1/2018 03:00",
+  "Smartub1" : "17",
+  "smartub2" : "12",
+  "smartub3" : "8",
+  "smartub4" : "24",
+  "smartube5" : "35",
+  "smartube6" : "12",
+  "smartube7" : "29",
+  "smartube8" : "11"
+}, {
+  "Hora" : "5/1/2018 06:00",
+  "Smartub1" : "34",
+  "smartub2" : "14",
+  "smartub3" : "6",
+  "smartub4" : "32",
+  "smartube5" : "19",
+  "smartube6" : "34",
+  "smartube7" : "8",
+  "smartube8" : "25"
+}, {
+  "Hora" : "5/1/2018 09:00",
+  "Smartub1" : "34",
+  "smartub2" : "6",
+  "smartub3" : "8",
+  "smartub4" : "35",
+  "smartube5" : "11",
+  "smartube6" : "32",
+  "smartube7" : "21",
+  "smartube8" : "35"
+}, {
+  "Hora" : "5/1/2018 12:00",
+  "Smartub1" : "7",
+  "smartub2" : "31",
+  "smartub3" : "17",
+  "smartub4" : "28",
+  "smartube5" : "32",
+  "smartube6" : "34",
+  "smartube7" : "31",
+  "smartube8" : "28"
+}, {
+  "Hora" : "5/1/2018 15:00",
+  "Smartub1" : "32",
+  "smartub2" : "10",
+  "smartub3" : "21",
+  "smartub4" : "25",
+  "smartube5" : "29",
+  "smartube6" : "6",
+  "smartube7" : "33",
+  "smartube8" : "29"
+}, {
+  "Hora" : "5/1/2018 18:00",
+  "Smartub1" : "30",
+  "smartub2" : "31",
+  "smartub3" : "19",
+  "smartub4" : "33",
+  "smartube5" : "13",
+  "smartube6" : "20",
+  "smartube7" : "10",
+  "smartube8" : "8"
+}, {
+  "Hora" : "5/1/2018 21:00",
+  "Smartub1" : "28",
+  "smartub2" : "29",
+  "smartub3" : "5",
+  "smartub4" : "29",
+  "smartube5" : "22",
+  "smartube6" : "6",
+  "smartube7" : "16",
+  "smartube8" : "13"
+}, {
+  "Hora" : "6/1/2018 00:00",
+  "Smartub1" : "9",
+  "smartub2" : "6",
+  "smartub3" : "27",
+  "smartub4" : "30",
+  "smartube5" : "26",
+  "smartube6" : "28",
+  "smartube7" : "24",
+  "smartube8" : "14"
+}, {
+  "Hora" : "6/1/2018 03:00",
+  "Smartub1" : "16",
+  "smartub2" : "23",
+  "smartub3" : "22",
+  "smartub4" : "20",
+  "smartube5" : "10",
+  "smartube6" : "19",
+  "smartube7" : "31",
+  "smartube8" : "10"
+}, {
+  "Hora" : "6/1/2018 06:00",
+  "Smartub1" : "30",
+  "smartub2" : "21",
+  "smartub3" : "5",
+  "smartub4" : "14",
+  "smartube5" : "15",
+  "smartube6" : "11",
+  "smartube7" : "16",
+  "smartube8" : "17"
+}, {
+  "Hora" : "6/1/2018 09:00",
+  "Smartub1" : "28",
+  "smartub2" : "16",
+  "smartub3" : "9",
+  "smartub4" : "31",
+  "smartube5" : "32",
+  "smartube6" : "21",
+  "smartube7" : "19",
+  "smartube8" : "26"
+}, {
+  "Hora" : "6/1/2018 12:00",
+  "Smartub1" : "5",
+  "smartub2" : "11",
+  "smartub3" : "29",
+  "smartub4" : "35",
+  "smartube5" : "28",
+  "smartube6" : "6",
+  "smartube7" : "33",
+  "smartube8" : "5"
+}, {
+  "Hora" : "6/1/2018 15:00",
+  "Smartub1" : "34",
+  "smartub2" : "34",
+  "smartub3" : "7",
+  "smartub4" : "30",
+  "smartube5" : "31",
+  "smartube6" : "16",
+  "smartube7" : "18",
+  "smartube8" : "11"
+}, {
+  "Hora" : "6/1/2018 18:00",
+  "Smartub1" : "26",
+  "smartub2" : "20",
+  "smartub3" : "18",
+  "smartub4" : "23",
+  "smartube5" : "27",
+  "smartube6" : "19",
+  "smartube7" : "21",
+  "smartube8" : "28"
+}, {
+  "Hora" : "6/1/2018 21:00",
+  "Smartub1" : "19",
+  "smartub2" : "16",
+  "smartub3" : "35",
+  "smartub4" : "8",
+  "smartube5" : "33",
+  "smartube6" : "15",
+  "smartube7" : "34",
+  "smartube8" : "21"
+}, {
+  "Hora" : "7/1/2018 00:00",
+  "Smartub1" : "35",
+  "smartub2" : "30",
+  "smartub3" : "30",
+  "smartub4" : "30",
+  "smartube5" : "14",
+  "smartube6" : "22",
+  "smartube7" : "33",
+  "smartube8" : "34"
+}, {
+  "Hora" : "7/1/2018 03:00",
+  "Smartub1" : "16",
+  "smartub2" : "5",
+  "smartub3" : "15",
+  "smartub4" : "10",
+  "smartube5" : "18",
+  "smartube6" : "23",
+  "smartube7" : "20",
+  "smartube8" : "8"
+}, {
+  "Hora" : "7/1/2018 06:00",
+  "Smartub1" : "11",
+  "smartub2" : "11",
+  "smartub3" : "32",
+  "smartub4" : "17",
+  "smartube5" : "32",
+  "smartube6" : "18",
+  "smartube7" : "25",
+  "smartube8" : "8"
+}, {
+  "Hora" : "7/1/2018 09:00",
+  "Smartub1" : "22",
+  "smartub2" : "11",
+  "smartub3" : "25",
+  "smartub4" : "27",
+  "smartube5" : "8",
+  "smartube6" : "33",
+  "smartube7" : "15",
+  "smartube8" : "16"
+}, {
+  "Hora" : "7/1/2018 12:00",
+  "Smartub1" : "17",
+  "smartub2" : "19",
+  "smartub3" : "23",
+  "smartub4" : "10",
+  "smartube5" : "29",
+  "smartube6" : "16",
+  "smartube7" : "17",
+  "smartube8" : "21"
+}, {
+  "Hora" : "7/1/2018 15:00",
+  "Smartub1" : "20",
+  "smartub2" : "8",
+  "smartub3" : "17",
+  "smartub4" : "8",
+  "smartube5" : "22",
+  "smartube6" : "31",
+  "smartube7" : "26",
+  "smartube8" : "21"
+}, {
+  "Hora" : "7/1/2018 18:00",
+  "Smartub1" : "30",
+  "smartub2" : "16",
+  "smartub3" : "7",
+  "smartub4" : "35",
+  "smartube5" : "20",
+  "smartube6" : "28",
+  "smartube7" : "26",
+  "smartube8" : "5"
+}, {
+  "Hora" : "7/1/2018 21:00",
+  "Smartub1" : "35",
+  "smartub2" : "35",
+  "smartub3" : "31",
+  "smartub4" : "35",
+  "smartube5" : "24",
+  "smartube6" : "16",
+  "smartube7" : "19",
+  "smartube8" : "10"
+}, {
+  "Hora" : "8/1/2018 00:00",
+  "Smartub1" : "12",
+  "smartub2" : "32",
+  "smartub3" : "27",
+  "smartub4" : "21",
+  "smartube5" : "7",
+  "smartube6" : "9",
+  "smartube7" : "28",
+  "smartube8" : "32"
+}, {
+  "Hora" : "8/1/2018 03:00",
+  "Smartub1" : "28",
+  "smartub2" : "28",
+  "smartub3" : "5",
+  "smartub4" : "14",
+  "smartube5" : "24",
+  "smartube6" : "9",
+  "smartube7" : "32",
+  "smartube8" : "7"
+}, {
+  "Hora" : "8/1/2018 06:00",
+  "Smartub1" : "21",
+  "smartub2" : "12",
+  "smartub3" : "6",
+  "smartub4" : "14",
+  "smartube5" : "24",
+  "smartube6" : "23",
+  "smartube7" : "35",
+  "smartube8" : "17"
+}, {
+  "Hora" : "8/1/2018 09:00",
+  "Smartub1" : "18",
+  "smartub2" : "35",
+  "smartub3" : "22",
+  "smartub4" : "23",
+  "smartube5" : "32",
+  "smartube6" : "34",
+  "smartube7" : "33",
+  "smartube8" : "20"
+}, {
+  "Hora" : "8/1/2018 12:00",
+  "Smartub1" : "32",
+  "smartub2" : "11",
+  "smartub3" : "35",
+  "smartub4" : "19",
+  "smartube5" : "15",
+  "smartube6" : "21",
+  "smartube7" : "26",
+  "smartube8" : "27"
+}, {
+  "Hora" : "8/1/2018 15:00",
+  "Smartub1" : "23",
+  "smartub2" : "32",
+  "smartub3" : "29",
+  "smartub4" : "15",
+  "smartube5" : "12",
+  "smartube6" : "8",
+  "smartube7" : "19",
+  "smartube8" : "15"
+}, {
+  "Hora" : "8/1/2018 18:00",
+  "Smartub1" : "16",
+  "smartub2" : "35",
+  "smartub3" : "26",
+  "smartub4" : "30",
+  "smartube5" : "31",
+  "smartube6" : "19",
+  "smartube7" : "30",
+  "smartube8" : "34"
+}, {
+  "Hora" : "8/1/2018 21:00",
+  "Smartub1" : "11",
+  "smartub2" : "10",
+  "smartub3" : "22",
+  "smartub4" : "25",
+  "smartube5" : "25",
+  "smartube6" : "7",
+  "smartube7" : "25",
+  "smartube8" : "8"
+}, {
+  "Hora" : "9/1/2018 00:00",
+  "Smartub1" : "17",
+  "smartub2" : "18",
+  "smartub3" : "13",
+  "smartub4" : "28",
+  "smartube5" : "10",
+  "smartube6" : "23",
+  "smartube7" : "9",
+  "smartube8" : "13"
+}, {
+  "Hora" : "9/1/2018 03:00",
+  "Smartub1" : "35",
+  "smartub2" : "7",
+  "smartub3" : "6",
+  "smartub4" : "27",
+  "smartube5" : "32",
+  "smartube6" : "27",
+  "smartube7" : "19",
+  "smartube8" : "17"
+}, {
+  "Hora" : "9/1/2018 06:00",
+  "Smartub1" : "7",
+  "smartub2" : "16",
+  "smartub3" : "14",
+  "smartub4" : "27",
+  "smartube5" : "31",
+  "smartube6" : "9",
+  "smartube7" : "35",
+  "smartube8" : "35"
+}, {
+  "Hora" : "9/1/2018 09:00",
+  "Smartub1" : "28",
+  "smartub2" : "15",
+  "smartub3" : "30",
+  "smartub4" : "25",
+  "smartube5" : "16",
+  "smartube6" : "10",
+  "smartube7" : "12",
+  "smartube8" : "23"
+}, {
+  "Hora" : "9/1/2018 12:00",
+  "Smartub1" : "17",
+  "smartub2" : "21",
+  "smartub3" : "31",
+  "smartub4" : "24",
+  "smartube5" : "27",
+  "smartube6" : "30",
+  "smartube7" : "18",
+  "smartube8" : "33"
+}, {
+  "Hora" : "9/1/2018 15:00",
+  "Smartub1" : "7",
+  "smartub2" : "35",
+  "smartub3" : "11",
+  "smartub4" : "35",
+  "smartube5" : "8",
+  "smartube6" : "18",
+  "smartube7" : "13",
+  "smartube8" : "27"
+}, {
+  "Hora" : "9/1/2018 18:00",
+  "Smartub1" : "25",
+  "smartub2" : "20",
+  "smartub3" : "30",
+  "smartub4" : "33",
+  "smartube5" : "22",
+  "smartube6" : "26",
+  "smartube7" : "35",
+  "smartube8" : "14"
+}, {
+  "Hora" : "9/1/2018 21:00",
+  "Smartub1" : "5",
+  "smartub2" : "32",
+  "smartub3" : "33",
+  "smartub4" : "14",
+  "smartube5" : "9",
+  "smartube6" : "12",
+  "smartube7" : "34",
+  "smartube8" : "10"
+}, {
+  "Hora" : "10/1/2018 00:00",
+  "Smartub1" : "7",
+  "smartub2" : "5",
+  "smartub3" : "34",
+  "smartub4" : "13",
+  "smartube5" : "14",
+  "smartube6" : "21",
+  "smartube7" : "15",
+  "smartube8" : "11"
+}, {
+  "Hora" : "10/1/2018 03:00",
+  "Smartub1" : "31",
+  "smartub2" : "6",
+  "smartub3" : "17",
+  "smartub4" : "6",
+  "smartube5" : "22",
+  "smartube6" : "22",
+  "smartube7" : "31",
+  "smartube8" : "17"
+}, {
+  "Hora" : "10/1/2018 06:00",
+  "Smartub1" : "23",
+  "smartub2" : "23",
+  "smartub3" : "13",
+  "smartub4" : "7",
+  "smartube5" : "16",
+  "smartube6" : "12",
+  "smartube7" : "15",
+  "smartube8" : "30"
+}, {
+  "Hora" : "10/1/2018 09:00",
+  "Smartub1" : "17",
+  "smartub2" : "28",
+  "smartub3" : "18",
+  "smartub4" : "35",
+  "smartube5" : "35",
+  "smartube6" : "15",
+  "smartube7" : "25",
+  "smartube8" : "12"
+}, {
+  "Hora" : "10/1/2018 12:00",
+  "Smartub1" : "23",
+  "smartub2" : "7",
+  "smartub3" : "7",
+  "smartub4" : "26",
+  "smartube5" : "28",
+  "smartube6" : "33",
+  "smartube7" : "21",
+  "smartube8" : "14"
+}, {
+  "Hora" : "10/1/2018 15:00",
+  "Smartub1" : "34",
+  "smartub2" : "25",
+  "smartub3" : "8",
+  "smartub4" : "20",
+  "smartube5" : "8",
+  "smartube6" : "25",
+  "smartube7" : "34",
+  "smartube8" : "8"
+}, {
+  "Hora" : "10/1/2018 18:00",
+  "Smartub1" : "8",
+  "smartub2" : "24",
+  "smartub3" : "14",
+  "smartub4" : "7",
+  "smartube5" : "35",
+  "smartube6" : "20",
+  "smartube7" : "33",
+  "smartube8" : "17"
+}, {
+  "Hora" : "10/1/2018 21:00",
+  "Smartub1" : "5",
+  "smartub2" : "30",
+  "smartub3" : "22",
+  "smartub4" : "8",
+  "smartube5" : "27",
+  "smartube6" : "18",
+  "smartube7" : "35",
+  "smartube8" : "9"
+}, {
+  "Hora" : "11/1/2018 00:00",
+  "Smartub1" : "16",
+  "smartub2" : "27",
+  "smartub3" : "23",
+  "smartub4" : "8",
+  "smartube5" : "11",
+  "smartube6" : "25",
+  "smartube7" : "30",
+  "smartube8" : "5"
+}, {
+  "Hora" : "11/1/2018 03:00",
+  "Smartub1" : "25",
+  "smartub2" : "10",
+  "smartub3" : "9",
+  "smartub4" : "21",
+  "smartube5" : "11",
+  "smartube6" : "6",
+  "smartube7" : "6",
+  "smartube8" : "14"
+}, {
+  "Hora" : "11/1/2018 06:00",
+  "Smartub1" : "34",
+  "smartub2" : "18",
+  "smartub3" : "27",
+  "smartub4" : "23",
+  "smartube5" : "16",
+  "smartube6" : "35",
+  "smartube7" : "17",
+  "smartube8" : "28"
+}, {
+  "Hora" : "11/1/2018 09:00",
+  "Smartub1" : "15",
+  "smartub2" : "6",
+  "smartub3" : "31",
+  "smartub4" : "17",
+  "smartube5" : "17",
+  "smartube6" : "12",
+  "smartube7" : "7",
+  "smartube8" : "15"
+}, {
+  "Hora" : "11/1/2018 12:00",
+  "Smartub1" : "24",
+  "smartub2" : "21",
+  "smartub3" : "27",
+  "smartub4" : "12",
+  "smartube5" : "12",
+  "smartube6" : "25",
+  "smartube7" : "6",
+  "smartube8" : "19"
+}, {
+  "Hora" : "11/1/2018 15:00",
+  "Smartub1" : "25",
+  "smartub2" : "16",
+  "smartub3" : "19",
+  "smartub4" : "19",
+  "smartube5" : "9",
+  "smartube6" : "5",
+  "smartube7" : "29",
+  "smartube8" : "7"
+}, {
+  "Hora" : "11/1/2018 18:00",
+  "Smartub1" : "33",
+  "smartub2" : "8",
+  "smartub3" : "29",
+  "smartub4" : "28",
+  "smartube5" : "20",
+  "smartube6" : "12",
+  "smartube7" : "35",
+  "smartube8" : "15"
+}, {
+  "Hora" : "11/1/2018 21:00",
+  "Smartub1" : "9",
+  "smartub2" : "20",
+  "smartub3" : "11",
+  "smartub4" : "32",
+  "smartube5" : "17",
+  "smartube6" : "19",
+  "smartube7" : "33",
+  "smartube8" : "17"
+}, {
+  "Hora" : "12/1/2018 00:00",
+  "Smartub1" : "5",
+  "smartub2" : "30",
+  "smartub3" : "10",
+  "smartub4" : "19",
+  "smartube5" : "29",
+  "smartube6" : "12",
+  "smartube7" : "23",
+  "smartube8" : "19"
+}, {
+  "Hora" : "12/1/2018 03:00",
+  "Smartub1" : "21",
+  "smartub2" : "16",
+  "smartub3" : "16",
+  "smartub4" : "30",
+  "smartube5" : "22",
+  "smartube6" : "33",
+  "smartube7" : "26",
+  "smartube8" : "8"
+}, {
+  "Hora" : "12/1/2018 06:00",
+  "Smartub1" : "33",
+  "smartub2" : "17",
+  "smartub3" : "21",
+  "smartub4" : "25",
+  "smartube5" : "15",
+  "smartube6" : "10",
+  "smartube7" : "18",
+  "smartube8" : "16"
+}, {
+  "Hora" : "12/1/2018 09:00",
+  "Smartub1" : "28",
+  "smartub2" : "26",
+  "smartub3" : "21",
+  "smartub4" : "5",
+  "smartube5" : "25",
+  "smartube6" : "35",
+  "smartube7" : "31",
+  "smartube8" : "12"
+}, {
+  "Hora" : "12/1/2018 12:00",
+  "Smartub1" : "13",
+  "smartub2" : "14",
+  "smartub3" : "21",
+  "smartub4" : "22",
+  "smartube5" : "33",
+  "smartube6" : "22",
+  "smartube7" : "31",
+  "smartube8" : "21"
+}, {
+  "Hora" : "12/1/2018 15:00",
+  "Smartub1" : "19",
+  "smartub2" : "15",
+  "smartub3" : "16",
+  "smartub4" : "32",
+  "smartube5" : "35",
+  "smartube6" : "22",
+  "smartube7" : "31",
+  "smartube8" : "15"
+}, {
+  "Hora" : "12/1/2018 18:00",
+  "Smartub1" : "26",
+  "smartub2" : "31",
+  "smartub3" : "15",
+  "smartub4" : "11",
+  "smartube5" : "18",
+  "smartube6" : "32",
+  "smartube7" : "8",
+  "smartube8" : "15"
+}, {
+  "Hora" : "12/1/2018 21:00",
+  "Smartub1" : "13",
+  "smartub2" : "20",
+  "smartub3" : "9",
+  "smartub4" : "16",
+  "smartube5" : "33",
+  "smartube6" : "31",
+  "smartube7" : "22",
+  "smartube8" : "12"
+}, {
+  "Hora" : "13/1/2018 00:00",
+  "Smartub1" : "14",
+  "smartub2" : "9",
+  "smartub3" : "16",
+  "smartub4" : "26",
+  "smartube5" : "25",
+  "smartube6" : "21",
+  "smartube7" : "16",
+  "smartube8" : "6"
+}, {
+  "Hora" : "13/1/2018 03:00",
+  "Smartub1" : "14",
+  "smartub2" : "5",
+  "smartub3" : "12",
+  "smartub4" : "15",
+  "smartube5" : "22",
+  "smartube6" : "10",
+  "smartube7" : "24",
+  "smartube8" : "14"
+}, {
+  "Hora" : "13/1/2018 06:00",
+  "Smartub1" : "10",
+  "smartub2" : "30",
+  "smartub3" : "20",
+  "smartub4" : "12",
+  "smartube5" : "23",
+  "smartube6" : "19",
+  "smartube7" : "13",
+  "smartube8" : "6"
+}, {
+  "Hora" : "13/1/2018 09:00",
+  "Smartub1" : "24",
+  "smartub2" : "30",
+  "smartub3" : "28",
+  "smartub4" : "17",
+  "smartube5" : "28",
+  "smartube6" : "17",
+  "smartube7" : "26",
+  "smartube8" : "22"
+}, {
+  "Hora" : "13/1/2018 12:00",
+  "Smartub1" : "9",
+  "smartub2" : "10",
+  "smartub3" : "29",
+  "smartub4" : "19",
+  "smartube5" : "21",
+  "smartube6" : "30",
+  "smartube7" : "26",
+  "smartube8" : "23"
+}, {
+  "Hora" : "13/1/2018 15:00",
+  "Smartub1" : "11",
+  "smartub2" : "14",
+  "smartub3" : "14",
+  "smartub4" : "34",
+  "smartube5" : "6",
+  "smartube6" : "12",
+  "smartube7" : "25",
+  "smartube8" : "22"
+}, {
+  "Hora" : "13/1/2018 18:00",
+  "Smartub1" : "35",
+  "smartub2" : "6",
+  "smartub3" : "19",
+  "smartub4" : "18",
+  "smartube5" : "34",
+  "smartube6" : "21",
+  "smartube7" : "28",
+  "smartube8" : "26"
+}, {
+  "Hora" : "13/1/2018 21:00",
+  "Smartub1" : "18",
+  "smartub2" : "20",
+  "smartub3" : "6",
+  "smartub4" : "17",
+  "smartube5" : "16",
+  "smartube6" : "24",
+  "smartube7" : "35",
+  "smartube8" : "18"
+}, {
+  "Hora" : "14/1/2018 00:00",
+  "Smartub1" : "20",
+  "smartub2" : "30",
+  "smartub3" : "33",
+  "smartub4" : "9",
+  "smartube5" : "35",
+  "smartube6" : "29",
+  "smartube7" : "15",
+  "smartube8" : "29"
+}, {
+  "Hora" : "14/1/2018 03:00",
+  "Smartub1" : "18",
+  "smartub2" : "26",
+  "smartub3" : "31",
+  "smartub4" : "31",
+  "smartube5" : "22",
+  "smartube6" : "22",
+  "smartube7" : "11",
+  "smartube8" : "5"
+}, {
+  "Hora" : "14/1/2018 06:00",
+  "Smartub1" : "5",
+  "smartub2" : "32",
+  "smartub3" : "32",
+  "smartub4" : "31",
+  "smartube5" : "32",
+  "smartube6" : "22",
+  "smartube7" : "24",
+  "smartube8" : "8"
+}, {
+  "Hora" : "14/1/2018 09:00",
+  "Smartub1" : "30",
+  "smartub2" : "35",
+  "smartub3" : "11",
+  "smartub4" : "24",
+  "smartube5" : "12",
+  "smartube6" : "32",
+  "smartube7" : "30",
+  "smartube8" : "33"
+}, {
+  "Hora" : "14/1/2018 12:00",
+  "Smartub1" : "20",
+  "smartub2" : "35",
+  "smartub3" : "16",
+  "smartub4" : "24",
+  "smartube5" : "18",
+  "smartube6" : "22",
+  "smartube7" : "31",
+  "smartube8" : "29"
+}, {
+  "Hora" : "14/1/2018 15:00",
+  "Smartub1" : "34",
+  "smartub2" : "12",
+  "smartub3" : "12",
+  "smartub4" : "30",
+  "smartube5" : "13",
+  "smartube6" : "8",
+  "smartube7" : "21",
+  "smartube8" : "23"
+}, {
+  "Hora" : "14/1/2018 18:00",
+  "Smartub1" : "22",
+  "smartub2" : "15",
+  "smartub3" : "28",
+  "smartub4" : "30",
+  "smartube5" : "25",
+  "smartube6" : "23",
+  "smartube7" : "18",
+  "smartube8" : "32"
+}, {
+  "Hora" : "14/1/2018 21:00",
+  "Smartub1" : "30",
+  "smartub2" : "20",
+  "smartub3" : "11",
+  "smartub4" : "21",
+  "smartube5" : "35",
+  "smartube6" : "34",
+  "smartube7" : "32",
+  "smartube8" : "25"
+}, {
+  "Hora" : "15/1/2018 00:00",
+  "Smartub1" : "6",
+  "smartub2" : "34",
+  "smartub3" : "5",
+  "smartub4" : "34",
+  "smartube5" : "10",
+  "smartube6" : "34",
+  "smartube7" : "12",
+  "smartube8" : "26"
+}, {
+  "Hora" : "15/1/2018 03:00",
+  "Smartub1" : "5",
+  "smartub2" : "18",
+  "smartub3" : "27",
+  "smartub4" : "26",
+  "smartube5" : "10",
+  "smartube6" : "16",
+  "smartube7" : "9",
+  "smartube8" : "7"
+}, {
+  "Hora" : "15/1/2018 06:00",
+  "Smartub1" : "21",
+  "smartub2" : "13",
+  "smartub3" : "22",
+  "smartub4" : "11",
+  "smartube5" : "16",
+  "smartube6" : "17",
+  "smartube7" : "20",
+  "smartube8" : "30"
+}, {
+  "Hora" : "15/1/2018 09:00",
+  "Smartub1" : "12",
+  "smartub2" : "14",
+  "smartub3" : "11",
+  "smartub4" : "8",
+  "smartube5" : "22",
+  "smartube6" : "32",
+  "smartube7" : "6",
+  "smartube8" : "31"
+}, {
+  "Hora" : "15/1/2018 12:00",
+  "Smartub1" : "32",
+  "smartub2" : "26",
+  "smartub3" : "14",
+  "smartub4" : "9",
+  "smartube5" : "30",
+  "smartube6" : "35",
+  "smartube7" : "13",
+  "smartube8" : "10"
+}, {
+  "Hora" : "15/1/2018 15:00",
+  "Smartub1" : "29",
+  "smartub2" : "35",
+  "smartub3" : "12",
+  "smartub4" : "13",
+  "smartube5" : "27",
+  "smartube6" : "19",
+  "smartube7" : "34",
+  "smartube8" : "33"
+}, {
+  "Hora" : "15/1/2018 18:00",
+  "Smartub1" : "20",
+  "smartub2" : "31",
+  "smartub3" : "23",
+  "smartub4" : "21",
+  "smartube5" : "18",
+  "smartube6" : "28",
+  "smartube7" : "20",
+  "smartube8" : "24"
+}, {
+  "Hora" : "15/1/2018 21:00",
+  "Smartub1" : "34",
+  "smartub2" : "31",
+  "smartub3" : "15",
+  "smartub4" : "7",
+  "smartube5" : "30",
+  "smartube6" : "19",
+  "smartube7" : "26",
+  "smartube8" : "12"
+}, {
+  "Hora" : "16/1/2018 00:00",
+  "Smartub1" : "30",
+  "smartub2" : "5",
+  "smartub3" : "26",
+  "smartub4" : "15",
+  "smartube5" : "18",
+  "smartube6" : "28",
+  "smartube7" : "33",
+  "smartube8" : "16"
+}, {
+  "Hora" : "16/1/2018 03:00",
+  "Smartub1" : "34",
+  "smartub2" : "21",
+  "smartub3" : "21",
+  "smartub4" : "10",
+  "smartube5" : "27",
+  "smartube6" : "22",
+  "smartube7" : "21",
+  "smartube8" : "12"
+}, {
+  "Hora" : "16/1/2018 06:00",
+  "Smartub1" : "11",
+  "smartub2" : "12",
+  "smartub3" : "28",
+  "smartub4" : "18",
+  "smartube5" : "14",
+  "smartube6" : "28",
+  "smartube7" : "25",
+  "smartube8" : "18"
+}, {
+  "Hora" : "16/1/2018 09:00",
+  "Smartub1" : "35",
+  "smartub2" : "16",
+  "smartub3" : "5",
+  "smartub4" : "16",
+  "smartube5" : "32",
+  "smartube6" : "35",
+  "smartube7" : "19",
+  "smartube8" : "10"
+}, {
+  "Hora" : "16/1/2018 12:00",
+  "Smartub1" : "15",
+  "smartub2" : "9",
+  "smartub3" : "9",
+  "smartub4" : "7",
+  "smartube5" : "29",
+  "smartube6" : "6",
+  "smartube7" : "7",
+  "smartube8" : "29"
+}, {
+  "Hora" : "16/1/2018 15:00",
+  "Smartub1" : "19",
+  "smartub2" : "25",
+  "smartub3" : "19",
+  "smartub4" : "27",
+  "smartube5" : "31",
+  "smartube6" : "5",
+  "smartube7" : "23",
+  "smartube8" : "22"
+}, {
+  "Hora" : "16/1/2018 18:00",
+  "Smartub1" : "9",
+  "smartub2" : "10",
+  "smartub3" : "25",
+  "smartub4" : "35",
+  "smartube5" : "30",
+  "smartube6" : "25",
+  "smartube7" : "33",
+  "smartube8" : "16"
+}, {
+  "Hora" : "16/1/2018 21:00",
+  "Smartub1" : "31",
+  "smartub2" : "24",
+  "smartub3" : "24",
+  "smartub4" : "25",
+  "smartube5" : "22",
+  "smartube6" : "10",
+  "smartube7" : "19",
+  "smartube8" : "9"
+}, {
+  "Hora" : "17/1/2018 00:00",
+  "Smartub1" : "28",
+  "smartub2" : "22",
+  "smartub3" : "11",
+  "smartub4" : "7",
+  "smartube5" : "17",
+  "smartube6" : "23",
+  "smartube7" : "13",
+  "smartube8" : "33"
+}, {
+  "Hora" : "17/1/2018 03:00",
+  "Smartub1" : "19",
+  "smartub2" : "31",
+  "smartub3" : "34",
+  "smartub4" : "10",
+  "smartube5" : "20",
+  "smartube6" : "25",
+  "smartube7" : "31",
+  "smartube8" : "6"
+}, {
+  "Hora" : "17/1/2018 06:00",
+  "Smartub1" : "11",
+  "smartub2" : "35",
+  "smartub3" : "17",
+  "smartub4" : "34",
+  "smartube5" : "9",
+  "smartube6" : "5",
+  "smartube7" : "22",
+  "smartube8" : "25"
+}, {
+  "Hora" : "17/1/2018 09:00",
+  "Smartub1" : "30",
+  "smartub2" : "26",
+  "smartub3" : "27",
+  "smartub4" : "17",
+  "smartube5" : "11",
+  "smartube6" : "28",
+  "smartube7" : "13",
+  "smartube8" : "34"
+}, {
+  "Hora" : "17/1/2018 12:00",
+  "Smartub1" : "22",
+  "smartub2" : "11",
+  "smartub3" : "21",
+  "smartub4" : "24",
+  "smartube5" : "16",
+  "smartube6" : "9",
+  "smartube7" : "8",
+  "smartube8" : "30"
+}, {
+  "Hora" : "17/1/2018 15:00",
+  "Smartub1" : "10",
+  "smartub2" : "12",
+  "smartub3" : "10",
+  "smartub4" : "28",
+  "smartube5" : "35",
+  "smartube6" : "32",
+  "smartube7" : "22",
+  "smartube8" : "11"
+}, {
+  "Hora" : "17/1/2018 18:00",
+  "Smartub1" : "7",
+  "smartub2" : "16",
+  "smartub3" : "6",
+  "smartub4" : "10",
+  "smartube5" : "5",
+  "smartube6" : "10",
+  "smartube7" : "7",
+  "smartube8" : "19"
+}, {
+  "Hora" : "17/1/2018 21:00",
+  "Smartub1" : "21",
+  "smartub2" : "11",
+  "smartub3" : "24",
+  "smartub4" : "25",
+  "smartube5" : "17",
+  "smartube6" : "18",
+  "smartube7" : "7",
+  "smartube8" : "33"
+}, {
+  "Hora" : "18/1/2018 00:00",
+  "Smartub1" : "16",
+  "smartub2" : "27",
+  "smartub3" : "18",
+  "smartub4" : "17",
+  "smartube5" : "22",
+  "smartube6" : "32",
+  "smartube7" : "13",
+  "smartube8" : "33"
+}, {
+  "Hora" : "18/1/2018 03:00",
+  "Smartub1" : "32",
+  "smartub2" : "19",
+  "smartub3" : "5",
+  "smartub4" : "13",
+  "smartube5" : "17",
+  "smartube6" : "8",
+  "smartube7" : "18",
+  "smartube8" : "20"
+}, {
+  "Hora" : "18/1/2018 06:00",
+  "Smartub1" : "10",
+  "smartub2" : "26",
+  "smartub3" : "20",
+  "smartub4" : "9",
+  "smartube5" : "26",
+  "smartube6" : "7",
+  "smartube7" : "26",
+  "smartube8" : "10"
+}, {
+  "Hora" : "18/1/2018 09:00",
+  "Smartub1" : "9",
+  "smartub2" : "35",
+  "smartub3" : "22",
+  "smartub4" : "28",
+  "smartube5" : "12",
+  "smartube6" : "11",
+  "smartube7" : "25",
+  "smartube8" : "21"
+}, {
+  "Hora" : "18/1/2018 12:00",
+  "Smartub1" : "16",
+  "smartub2" : "16",
+  "smartub3" : "26",
+  "smartub4" : "35",
+  "smartube5" : "16",
+  "smartube6" : "28",
+  "smartube7" : "33",
+  "smartube8" : "13"
+}, {
+  "Hora" : "18/1/2018 15:00",
+  "Smartub1" : "19",
+  "smartub2" : "31",
+  "smartub3" : "7",
+  "smartub4" : "19",
+  "smartube5" : "35",
+  "smartube6" : "10",
+  "smartube7" : "23",
+  "smartube8" : "32"
+}, {
+  "Hora" : "18/1/2018 18:00",
+  "Smartub1" : "23",
+  "smartub2" : "8",
+  "smartub3" : "33",
+  "smartub4" : "9",
+  "smartube5" : "23",
+  "smartube6" : "12",
+  "smartube7" : "31",
+  "smartube8" : "20"
+}, {
+  "Hora" : "18/1/2018 21:00",
+  "Smartub1" : "23",
+  "smartub2" : "24",
+  "smartub3" : "7",
+  "smartub4" : "11",
+  "smartube5" : "6",
+  "smartube6" : "24",
+  "smartube7" : "27",
+  "smartube8" : "21"
+}, {
+  "Hora" : "19/1/2018 00:00",
+  "Smartub1" : "21",
+  "smartub2" : "34",
+  "smartub3" : "22",
+  "smartub4" : "13",
+  "smartube5" : "24",
+  "smartube6" : "15",
+  "smartube7" : "14",
+  "smartube8" : "22"
+}, {
+  "Hora" : "19/1/2018 03:00",
+  "Smartub1" : "30",
+  "smartub2" : "5",
+  "smartub3" : "16",
+  "smartub4" : "34",
+  "smartube5" : "32",
+  "smartube6" : "29",
+  "smartube7" : "18",
+  "smartube8" : "30"
+}, {
+  "Hora" : "19/1/2018 06:00",
+  "Smartub1" : "13",
+  "smartub2" : "32",
+  "smartub3" : "17",
+  "smartub4" : "13",
+  "smartube5" : "9",
+  "smartube6" : "11",
+  "smartube7" : "9",
+  "smartube8" : "16"
+}, {
+  "Hora" : "19/1/2018 09:00",
+  "Smartub1" : "28",
+  "smartub2" : "32",
+  "smartub3" : "20",
+  "smartub4" : "22",
+  "smartube5" : "6",
+  "smartube6" : "7",
+  "smartube7" : "32",
+  "smartube8" : "13"
+}, {
+  "Hora" : "19/1/2018 12:00",
+  "Smartub1" : "16",
+  "smartub2" : "16",
+  "smartub3" : "22",
+  "smartub4" : "8",
+  "smartube5" : "20",
+  "smartube6" : "31",
+  "smartube7" : "22",
+  "smartube8" : "7"
+}, {
+  "Hora" : "19/1/2018 15:00",
+  "Smartub1" : "17",
+  "smartub2" : "17",
+  "smartub3" : "10",
+  "smartub4" : "25",
+  "smartube5" : "22",
+  "smartube6" : "19",
+  "smartube7" : "15",
+  "smartube8" : "15"
+}, {
+  "Hora" : "19/1/2018 18:00",
+  "Smartub1" : "34",
+  "smartub2" : "19",
+  "smartub3" : "30",
+  "smartub4" : "21",
+  "smartube5" : "19",
+  "smartube6" : "29",
+  "smartube7" : "34",
+  "smartube8" : "7"
+}, {
+  "Hora" : "19/1/2018 21:00",
+  "Smartub1" : "32",
+  "smartub2" : "5",
+  "smartub3" : "24",
+  "smartub4" : "23",
+  "smartube5" : "15",
+  "smartube6" : "26",
+  "smartube7" : "25",
+  "smartube8" : "8"
+}, {
+  "Hora" : "20/1/2018 00:00",
+  "Smartub1" : "7",
+  "smartub2" : "10",
+  "smartub3" : "22",
+  "smartub4" : "7",
+  "smartube5" : "15",
+  "smartube6" : "34",
+  "smartube7" : "34",
+  "smartube8" : "28"
+}, {
+  "Hora" : "20/1/2018 03:00",
+  "Smartub1" : "11",
+  "smartub2" : "8",
+  "smartub3" : "23",
+  "smartub4" : "26",
+  "smartube5" : "14",
+  "smartube6" : "29",
+  "smartube7" : "20",
+  "smartube8" : "24"
+}, {
+  "Hora" : "20/1/2018 06:00",
+  "Smartub1" : "29",
+  "smartub2" : "32",
+  "smartub3" : "27",
+  "smartub4" : "17",
+  "smartube5" : "11",
+  "smartube6" : "25",
+  "smartube7" : "12",
+  "smartube8" : "11"
+}, {
+  "Hora" : "20/1/2018 09:00",
+  "Smartub1" : "11",
+  "smartub2" : "5",
+  "smartub3" : "31",
+  "smartub4" : "9",
+  "smartube5" : "20",
+  "smartube6" : "18",
+  "smartube7" : "35",
+  "smartube8" : "10"
+}, {
+  "Hora" : "20/1/2018 12:00",
+  "Smartub1" : "6",
+  "smartub2" : "30",
+  "smartub3" : "17",
+  "smartub4" : "17",
+  "smartube5" : "31",
+  "smartube6" : "29",
+  "smartube7" : "19",
+  "smartube8" : "14"
+}, {
+  "Hora" : "20/1/2018 15:00",
+  "Smartub1" : "9",
+  "smartub2" : "23",
+  "smartub3" : "18",
+  "smartub4" : "32",
+  "smartube5" : "31",
+  "smartube6" : "28",
+  "smartube7" : "13",
+  "smartube8" : "33"
+}, {
+  "Hora" : "20/1/2018 18:00",
+  "Smartub1" : "33",
+  "smartub2" : "20",
+  "smartub3" : "10",
+  "smartub4" : "35",
+  "smartube5" : "20",
+  "smartube6" : "5",
+  "smartube7" : "5",
+  "smartube8" : "27"
+}, {
+  "Hora" : "20/1/2018 21:00",
+  "Smartub1" : "27",
+  "smartub2" : "29",
+  "smartub3" : "31",
+  "smartub4" : "18",
+  "smartube5" : "5",
+  "smartube6" : "27",
+  "smartube7" : "23",
+  "smartube8" : "33"
+}, {
+  "Hora" : "21/1/2018 00:00",
+  "Smartub1" : "7",
+  "smartub2" : "27",
+  "smartub3" : "20",
+  "smartub4" : "21",
+  "smartube5" : "29",
+  "smartube6" : "34",
+  "smartube7" : "14",
+  "smartube8" : "34"
+}, {
+  "Hora" : "21/1/2018 03:00",
+  "Smartub1" : "9",
+  "smartub2" : "20",
+  "smartub3" : "23",
+  "smartub4" : "8",
+  "smartube5" : "15",
+  "smartube6" : "12",
+  "smartube7" : "10",
+  "smartube8" : "16"
+}, {
+  "Hora" : "21/1/2018 06:00",
+  "Smartub1" : "32",
+  "smartub2" : "20",
+  "smartub3" : "12",
+  "smartub4" : "34",
+  "smartube5" : "7",
+  "smartube6" : "14",
+  "smartube7" : "18",
+  "smartube8" : "30"
+}, {
+  "Hora" : "21/1/2018 09:00",
+  "Smartub1" : "6",
+  "smartub2" : "12",
+  "smartub3" : "18",
+  "smartub4" : "21",
+  "smartube5" : "8",
+  "smartube6" : "34",
+  "smartube7" : "33",
+  "smartube8" : "12"
+}, {
+  "Hora" : "21/1/2018 12:00",
+  "Smartub1" : "23",
+  "smartub2" : "24",
+  "smartub3" : "33",
+  "smartub4" : "25",
+  "smartube5" : "16",
+  "smartube6" : "9",
+  "smartube7" : "5",
+  "smartube8" : "35"
+}, {
+  "Hora" : "21/1/2018 15:00",
+  "Smartub1" : "13",
+  "smartub2" : "12",
+  "smartub3" : "8",
+  "smartub4" : "24",
+  "smartube5" : "21",
+  "smartube6" : "26",
+  "smartube7" : "33",
+  "smartube8" : "11"
+}, {
+  "Hora" : "21/1/2018 18:00",
+  "Smartub1" : "5",
+  "smartub2" : "11",
+  "smartub3" : "29",
+  "smartub4" : "16",
+  "smartube5" : "25",
+  "smartube6" : "30",
+  "smartube7" : "22",
+  "smartube8" : "18"
+}, {
+  "Hora" : "21/1/2018 21:00",
+  "Smartub1" : "16",
+  "smartub2" : "8",
+  "smartub3" : "34",
+  "smartub4" : "21",
+  "smartube5" : "14",
+  "smartube6" : "18",
+  "smartube7" : "12",
+  "smartube8" : "13"
+}, {
+  "Hora" : "22/1/2018 00:00",
+  "Smartub1" : "5",
+  "smartub2" : "25",
+  "smartub3" : "18",
+  "smartub4" : "35",
+  "smartube5" : "19",
+  "smartube6" : "20",
+  "smartube7" : "35",
+  "smartube8" : "26"
+}, {
+  "Hora" : "22/1/2018 03:00",
+  "Smartub1" : "26",
+  "smartub2" : "9",
+  "smartub3" : "29",
+  "smartub4" : "20",
+  "smartube5" : "9",
+  "smartube6" : "18",
+  "smartube7" : "11",
+  "smartube8" : "35"
+}, {
+  "Hora" : "22/1/2018 06:00",
+  "Smartub1" : "35",
+  "smartub2" : "29",
+  "smartub3" : "29",
+  "smartub4" : "27",
+  "smartube5" : "18",
+  "smartube6" : "28",
+  "smartube7" : "11",
+  "smartube8" : "27"
+}, {
+  "Hora" : "22/1/2018 09:00",
+  "Smartub1" : "6",
+  "smartub2" : "7",
+  "smartub3" : "34",
+  "smartub4" : "17",
+  "smartube5" : "23",
+  "smartube6" : "7",
+  "smartube7" : "23",
+  "smartube8" : "13"
+}, {
+  "Hora" : "22/1/2018 12:00",
+  "Smartub1" : "24",
+  "smartub2" : "8",
+  "smartub3" : "15",
+  "smartub4" : "33",
+  "smartube5" : "26",
+  "smartube6" : "13",
+  "smartube7" : "29",
+  "smartube8" : "11"
+}, {
+  "Hora" : "22/1/2018 15:00",
+  "Smartub1" : "21",
+  "smartub2" : "16",
+  "smartub3" : "6",
+  "smartub4" : "7",
+  "smartube5" : "10",
+  "smartube6" : "33",
+  "smartube7" : "33",
+  "smartube8" : "14"
+}, {
+  "Hora" : "22/1/2018 18:00",
+  "Smartub1" : "5",
+  "smartub2" : "8",
+  "smartub3" : "16",
+  "smartub4" : "23",
+  "smartube5" : "24",
+  "smartube6" : "33",
+  "smartube7" : "26",
+  "smartube8" : "32"
+}, {
+  "Hora" : "22/1/2018 21:00",
+  "Smartub1" : "16",
+  "smartub2" : "34",
+  "smartub3" : "32",
+  "smartub4" : "21",
+  "smartube5" : "15",
+  "smartube6" : "19",
+  "smartube7" : "10",
+  "smartube8" : "29"
+}, {
+  "Hora" : "23/1/2018 00:00",
+  "Smartub1" : "6",
+  "smartub2" : "9",
+  "smartub3" : "34",
+  "smartub4" : "27",
+  "smartube5" : "12",
+  "smartube6" : "10",
+  "smartube7" : "23",
+  "smartube8" : "28"
+}, {
+  "Hora" : "23/1/2018 03:00",
+  "Smartub1" : "21",
+  "smartub2" : "26",
+  "smartub3" : "13",
+  "smartub4" : "18",
+  "smartube5" : "14",
+  "smartube6" : "32",
+  "smartube7" : "6",
+  "smartube8" : "20"
+}, {
+  "Hora" : "23/1/2018 06:00",
+  "Smartub1" : "20",
+  "smartub2" : "27",
+  "smartub3" : "5",
+  "smartub4" : "16",
+  "smartube5" : "19",
+  "smartube6" : "12",
+  "smartube7" : "15",
+  "smartube8" : "14"
+}, {
+  "Hora" : "23/1/2018 09:00",
+  "Smartub1" : "21",
+  "smartub2" : "15",
+  "smartub3" : "13",
+  "smartub4" : "11",
+  "smartube5" : "27",
+  "smartube6" : "8",
+  "smartube7" : "5",
+  "smartube8" : "12"
+}, {
+  "Hora" : "23/1/2018 12:00",
+  "Smartub1" : "27",
+  "smartub2" : "28",
+  "smartub3" : "19",
+  "smartub4" : "20",
+  "smartube5" : "25",
+  "smartube6" : "15",
+  "smartube7" : "8",
+  "smartube8" : "15"
+}, {
+  "Hora" : "23/1/2018 15:00",
+  "Smartub1" : "13",
+  "smartub2" : "25",
+  "smartub3" : "22",
+  "smartub4" : "17",
+  "smartube5" : "14",
+  "smartube6" : "24",
+  "smartube7" : "8",
+  "smartube8" : "6"
+}, {
+  "Hora" : "23/1/2018 18:00",
+  "Smartub1" : "6",
+  "smartub2" : "28",
+  "smartub3" : "14",
+  "smartub4" : "22",
+  "smartube5" : "20",
+  "smartube6" : "33",
+  "smartube7" : "28",
+  "smartube8" : "14"
+}, {
+  "Hora" : "23/1/2018 21:00",
+  "Smartub1" : "31",
+  "smartub2" : "18",
+  "smartub3" : "26",
+  "smartub4" : "15",
+  "smartube5" : "14",
+  "smartube6" : "8",
+  "smartube7" : "17",
+  "smartube8" : "29"
+}, {
+  "Hora" : "24/1/2018 00:00",
+  "Smartub1" : "14",
+  "smartub2" : "15",
+  "smartub3" : "34",
+  "smartub4" : "6",
+  "smartube5" : "27",
+  "smartube6" : "23",
+  "smartube7" : "35",
+  "smartube8" : "25"
+}, {
+  "Hora" : "24/1/2018 03:00",
+  "Smartub1" : "31",
+  "smartub2" : "7",
+  "smartub3" : "32",
+  "smartub4" : "8",
+  "smartube5" : "20",
+  "smartube6" : "8",
+  "smartube7" : "10",
+  "smartube8" : "25"
+}, {
+  "Hora" : "24/1/2018 06:00",
+  "Smartub1" : "33",
+  "smartub2" : "8",
+  "smartub3" : "5",
+  "smartub4" : "19",
+  "smartube5" : "29",
+  "smartube6" : "35",
+  "smartube7" : "12",
+  "smartube8" : "8"
+}, {
+  "Hora" : "24/1/2018 09:00",
+  "Smartub1" : "21",
+  "smartub2" : "31",
+  "smartub3" : "17",
+  "smartub4" : "8",
+  "smartube5" : "11",
+  "smartube6" : "19",
+  "smartube7" : "12",
+  "smartube8" : "11"
+}, {
+  "Hora" : "24/1/2018 12:00",
+  "Smartub1" : "5",
+  "smartub2" : "20",
+  "smartub3" : "33",
+  "smartub4" : "6",
+  "smartube5" : "33",
+  "smartube6" : "29",
+  "smartube7" : "28",
+  "smartube8" : "5"
+}, {
+  "Hora" : "24/1/2018 15:00",
+  "Smartub1" : "8",
+  "smartub2" : "7",
+  "smartub3" : "19",
+  "smartub4" : "11",
+  "smartube5" : "29",
+  "smartube6" : "22",
+  "smartube7" : "19",
+  "smartube8" : "21"
+}, {
+  "Hora" : "24/1/2018 18:00",
+  "Smartub1" : "35",
+  "smartub2" : "19",
+  "smartub3" : "27",
+  "smartub4" : "12",
+  "smartube5" : "5",
+  "smartube6" : "28",
+  "smartube7" : "7",
+  "smartube8" : "10"
+}, {
+  "Hora" : "24/1/2018 21:00",
+  "Smartub1" : "22",
+  "smartub2" : "20",
+  "smartub3" : "18",
+  "smartub4" : "14",
+  "smartube5" : "34",
+  "smartube6" : "30",
+  "smartube7" : "10",
+  "smartube8" : "31"
+} ]
